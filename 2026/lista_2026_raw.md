@@ -1,4 +1,24 @@
 | Episódio | Ouvinte | Produto |
+| 103 | Aíquis | Duo Gourmet |
+| 103 | Arthur | Massageador de pescoço e ombros |
+| 103 | Caiman | Manus AI |
+| 103 | Iago Maciel | Cloud Cowork |
+| 103 | Thiago Valinho | Gemini, Gchat, Canvas |
+| 103 | Beatriz Morales | Bilhete Único |
+| 103 | Vanessa Silva | ChatGPT, Copilot |
+| 103 | Amanda Couto | ChatGPT, Gemini |
+| 103 | Rodrigo Frumento | ChatGPT, Jira, ChatPRD |
+| 103 | Senra | Power Automate |
+| 103 | Carlos Bronze | Cursor, Lovable |
+| 103 | Cristiano | App do FGC |
+| 103 | Marcos Roman | Isla, Lovable |
+| 103 | Paula Paradellas | Substack |
+| 103 | Beatriz Fazolo | Buy Tickets |
+| 103 | Nelson de Moura | Cursor, Antigravity |
+| 103 | Diego Espinilo | Antigravity |
+| 103 | Amilker | Google Script, NotebookLM |
+| 103 | Bob | Tidal |
+| 103 | Peixoto | Lovable |
 | 102 | Arthur | Replit ou Cursor |
 | 102 | Aíquis | Hevy |
 | 102 | Beatriz morales | GymRats |
@@ -53,3 +73,4 @@
 | 101 | Lukão | X / Twitter |
 | 101 | Mat Lopes | Loom |
 | 101 | Andrezão | Vocabulary |
+
