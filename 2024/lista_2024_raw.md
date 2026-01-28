@@ -74,13 +74,18 @@
 | 58       | Andrezinho        | Duolingo                                 |
 | 58       | Glauco            | ClassApp (app da creche)                 |
 | 58       | Lukão             | Eventos do Whatsapp                      |
-| ---      | ----------------- | -----------------------                  |
+| 57       | Aíquis            | Google Suite                             |
+| 57       | Arthur            | Apple Intelligence                       |
 | 57       | Boss              | Retool                                   |
-| 57       | Mat Mou           | Rocket Money                             |
+| 57       | Mat               | Rocket Money                             |
 | 57       | Karina            | Bike                                     |
-| 57       | Pilon             | ChatGPT + Google Lens                    |
+| 57       | Lucas             | LinkedIn                                 |
+| 57       | Brian             | LinkedIn                                 |
+| 57       | Pilon             | ChatGPT                                  |
+| 57       | Pilon             | Google Lens                              |
 | 57       | Nana              | Netflix                                  |
-| 57       | Bruna             | Tocan                                    |
+| 57       | Bruna             | Toqan                                    |
+| ---      | ----------------- | -----------------------                  |
 | 56       | Nana              | Township                                 |
 | 56       | Amanda            | Practica                                 |
 | 56       | Alex              | Zé Delivery                              |
