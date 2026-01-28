@@ -41,11 +41,28 @@
 | 61       | Brian             | Reddit                                   |
 | 61       | Lucas             | Pinterest                                |
 | 61       | Mat               | SP+ Parking                              |
-| 60       | Aíquis            | Kindle                                   |
-| 60       | Danilo            | Scoob                                    |
+| 60       | Arthur            | FlutterFlow                              |
+| 60       | Aíquis            | Samsung Smart Switch                     |
+| 60       | Danilo            | Skoob                                    |
 | 60       | Lukão             | BuyTicket                                |
 | 60       | Lucas             | n8n                                      |
+| 60       | Pilon             | Kindle                                   |
 | 60       | Thiago            | Bionic Go                                |
+| 60       | Boss              | OneSchema                                |
+| 59       | Aíquis            | Prime Video                              |
+| 59       | Aíquis            | Crew AI                                  |
+| 59       | Arthur            | AirOps                                   |
+| 59       | Portinho          | Mapify                                   |
+| 59       | Gi                | Perplexity                               |
+| 59       | Jéssica Luz       | TL;dv                                    |
+| 59       | Boss              | Supabase                                 |
+| 59       | Tiago Santi       | Quickbase                                |
+| 59       | Nana              | FoodtoSave                               |
+| 59       | Marina Fernandes  | Wellhub                                  |
+| 59       | Brian             | Zepp                                     |
+| 59       | Pilon             | E-titulo                                 |
+| 59       | Ana Romeu         | Swapfiets                                |
+| 59       | Andrezão          | Pokemón TCG                              |
 | 59       | Danilera          | Land Builder                             |
 | 58       | Lucas             | Smiles                                   |
 | 58       | Cloves            | Quinto Andar                             |
