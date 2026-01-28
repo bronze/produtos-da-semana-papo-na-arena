@@ -27,23 +27,24 @@
 | 63       | Nery              | FileBrowser Go                           |
 | 63       | Danilera          | C6 (IA)                                  |
 | 63       | Murilo            | SOS Golpes                               |
-| 62       | Nana              | Alelo                                    |
-| 62       | Glauco            | PicPay                                   |
-| 62       | Cloves            | XPT                                      |
 | 62       | Aíquis            | Munhequeira                              |
 | 62       | Arthur            | Zoom AI Companion                        |
-| 61       | Arthur            | Spro                                     |
-| 61       | Aíquis            | Microsoft Edge (cupons)                  |
-| 61       | Danilo            | Pilot                                    |
+| 62       | Mat               | Pampers Club                             |
+| 62       | Nana              | Livelo                                   |
+| 62       | Glauco            | PicPay                                   |
+| 62       | Cloves            | ChatGPT                                  |
+| 61       | Arthur            | Sprout                                   |
+| 61       | Aíquis            | Microsoft Edge (busca de cupons)         |
+| 61       | Danilo            | Pillow Top Emma                          |
+| 61       | Cauê              | Pokemón TCG                              |
 | 61       | Maria             | Netflix                                  |
 | 61       | Brian             | Reddit                                   |
 | 61       | Lucas             | Pinterest                                |
-| 61       | Lucas             | Match                                    |
-| 61       | Ouvinte anônimo   | SP+ Parking                              |
+| 61       | Mat               | SP+ Parking                              |
+| 60       | Aíquis            | Kindle                                   |
 | 60       | Danilo            | Scoob                                    |
 | 60       | Lukão             | BuyTicket                                |
 | 60       | Lucas             | n8n                                      |
-| 60       | Aíquis            | Kindle                                   |
 | 60       | Thiago            | Bionic Go                                |
 | 59       | Danilera          | Land Builder                             |
 | 58       | Lucas             | Smiles                                   |
