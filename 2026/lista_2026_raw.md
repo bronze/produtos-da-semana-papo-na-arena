@@ -2,7 +2,7 @@
 | 103 | Aíquis | Duo Gourmet |
 | 103 | Arthur | Massageador de pescoço e ombros |
 | 103 | Caiman | Manus AI |
-| 103 | Iago Maciel | Cloud Cowork |
+| 103 | Iago Maciel | Claude Cowork |
 | 103 | Thiago Valinho | Gemini, Gchat, Canvas |
 | 103 | Beatriz Morales | Bilhete Único |
 | 103 | Vanessa Silva | ChatGPT, Copilot |
@@ -73,4 +73,5 @@
 | 101 | Lukão | X / Twitter |
 | 101 | Mat Lopes | Loom |
 | 101 | Andrezão | Vocabulary |
+
 
