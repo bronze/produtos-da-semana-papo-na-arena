@@ -1,166 +1,167 @@
-| Episódio | Ouvinte           | Produto                 |
-| -------- | ----------------- | ----------------------- |
-| 64       | Aíquis            | Balatro                 |
-| 64       | Arthur            | Ray-Ban Meta            |
-| 64       | Nina              | Drogasil                |
-| 64       | Efren             | Napkin                  |
-| 64       | Boss              | N8n                     |
-| 64       | Nana              | Mercado Bitcoin         |
-| 64       | Andrézinho        | Duolingo                |
-| 64       | Lucas             | Airfryer Ritalobo       |
-| 64       | Mila              | Pipefy                  |
-| 64       | nery              | thefork                 |
-| 64       | karina            | Kindle                  |
-| 64       | pilon             | Instacarro              |
-| 64       | Beiçola           | Lindt                   |
-| 64       | Bruna             | GymRats                 |
-| 64       | Lavin             | Teams/Office            |
-| 64       | Clovis            | Magie                   |
-| 64       | Alice             | DualSense               |
-| 63       | Alana             | Duolingo                |
-| 63       | Dezão             | Moises.AI               |
-| 63       | Lukão             | Plague Inc.             |
-| 63       | Glauco            | Total Pass              |
-| 63       | Jéssica           | Liti                    |
-| 63       | Nery              | FileBrowser Go          |
-| 63       | Danilera          | C6 (IA)                 |
-| 63       | Arthur            | Gentle Strike           |
-| 63       | Murilo            | SOS Golpes              |
-| 62       | Nana              | Alelo                   |
-| 62       | Glauco            | PicPay                  |
-| 62       | Cloves            | XPT                     |
-| 62       | Aíquis            | Munhequeira             |
-| 62       | Arthur            | Zoom AI Companion       |
-| 61       | Arthur            | Spro                    |
-| 61       | Aíquis            | Microsoft Edge (cupons) |
-| 61       | Danilo            | Pilot                   |
-| 61       | Maria             | Netflix                 |
-| 61       | Brian             | Reddit                  |
-| 61       | Lucas             | Pinterest               |
-| 61       | Lucas             | Match                   |
-| 61       | Ouvinte anônimo   | SP+ Parking             |
-| 60       | Danilo            | Scoob                   |
-| 60       | Lukão             | BuyTicket               |
-| 60       | Lucas             | n8n                     |
-| 60       | Aíquis            | Kindle                  |
-| 60       | Thiago            | Bionic Go               |
-| 59       | Danilera          | Land Builder            |
-| 58       | Lucas             | Smiles                  |
-| 58       | Cloves            | Quinto Andar            |
-| 58       | Nery              | Clash Pass              |
-| 58       | Karina            | 99                      |
-| 58       | Andrezinho        | Duolingo                |
-| 58       | Glauco            | CEP (app da creche)     |
-| 57       | Boss              | Retool                  |
-| 57       | Mat Mou           | Rocket Money            |
-| 57       | Karina            | Bike                    |
-| 57       | Pilon             | ChatGPT + Google Lens   |
-| 57       | Nana              | Netflix                 |
-| 57       | Bruna             | Tocan                   |
-| 56       | Nana              | Township                |
-| 56       | Amanda            | Practica                |
-| 56       | Alex              | Zé Delivery             |
-| 56       | Glauco            | ChatGPT                 |
-| 56       | Portinho          | Claude                  |
-| 56       | Leandro           | Omnivore                |
-| 56       | Fabio Beiço       | WhatsApp                |
-| 56       | Danilera          | Age of Empires Mobile   |
-| 56       | Mat               | Trela                   |
-| 56       | Karina            | Training Peaks          |
-| 56       | Brian             | PicPay                  |
-| 55       | Glauco            | Nike                    |
-| 53       | Brian             | Moises.AI               |
-| 53       | Maria             | Banana Mercado          |
-| 53       | Lucas             | Cifra Club              |
-| 53       | Dudu Magalhães    | Tesla                   |
-| 53       | Nana              | Garmin Connect          |
-| 53       | Cloves            | WhatsApp                |
-| 53       | Karina            | Quebra-cabeça           |
-| 52       | Nery              | Seats.aero              |
-| 52       | Danilera          | Cadeira de balanço      |
-| 51       | Karina            | Monument Valley         |
-| 51       | Alexandre Pereira | Sports Alerts           |
-| 51       | Andrezinho        | TripAdvisor             |
-| 51       | Lukão             | Rock in Rio             |
-| 51       | Nery              | FileBrowser Go          |
-| 51       | Danilera          | Alexa                   |
-| 48       | Luquita           | Liti                    |
-| 48       | Nana              | Apple Weather           |
-| 48       | Paulo Marcos LV   | My Baby                 |
-| 48       | Andrezão          | Mercado Livre           |
-| 48       | Carina            | Mercado Livre           |
-| 48       | Alana             | Revolut                 |
-| 48       | Pri Chagas        | Meu Dinheiro Web        |
-| 48       | Lucas             | Musixmatch              |
-| 48       | Cloves            | Bandcamp                |
-| 47       | Glauco            | iChat                   |
-| 47       | Marina Fernandes  | PowerBeats Pro          |
-| 47       | Carol Cardoso     | WhatsApp                |
-| 46       | Cloves            | Figma Slides            |
-| 46       | Karina            | Nock Knx                |
-| 46       | Brian             | YouTube Premium         |
-| 46       | Lucas             | Abastece Aí             |
-| 46       | Lucas             | Ingresso.com            |
-| 42       | Lukão             | Disney+                 |
-| 42       | Glauco            | Spotify                 |
-| 42       | Rodrigo           | CapCut                  |
-| 42       | Danilera          | Audible                 |
-| 42       | Projeto Fitness   | Samsung Health          |
-| 41       | Bob               | Spotify                 |
-| 41       | Glauco            | HBO Max                 |
-| 41       | Lucas             | Bipa                    |
-| 41       | Cloves            | Invisible AI            |
-| 41       | Nana              | Canva                   |
-| 41       | Miria             | iFood                   |
-| 39       | Henrique Boss     | Pocket                  |
-| 39       | Priscila          | Power Automate          |
-| 39       | Andrezinho        | Spotify                 |
-| 36       | Cloves            | Blink                   |
-| 36       | Nana              | Google Maps             |
-| 36       | Amanda            | Zoom                    |
-| 36       | Luiz              | TunnelBear              |
-| 36       | Montoy            | Atlas.ti                |
-| 35       | César             | SL                      |
-| 35       | Paulo             | Golf                    |
-| 35       | Glauco            | Zona Azul               |
-| 34       | Glauco            | Dasa                    |
-| 34       | Mateus            | United Airlines         |
-| 34       | Ouvinte anônimo   | Tinder                  |
-| 33       | Danilera          | Garmin Connect          |
-| 33       | Edu               | MSC for Me              |
-| 33       | Mozão             | WhatsApp                |
-| 33       | Bigodin           | CapCut                  |
-| 33       | Beola             | Yazio                   |
-| 33       | Lucas             | Google Scholar          |
-| 32       | Pri Chagas        | Todoist                 |
-| 32       | Wilson de Moraes  | Total Pass              |
-| 32       | Miriam            | Strava                  |
-| 32       | Paulo             | Splitwise               |
-| 32       | Andrezão          | SkyView                 |
-| 32       | Lucas Mattos      | Esteto                  |
-| 32       | Pilon             | Mercado Livre           |
-| 32       | Sala              | 1Password               |
-| 32       | Ana Romeu         | ZenChef                 |
-| 30       | Dezão             | Before Waste            |
-| 30       | Nana              | Splitwise               |
-| 30       | Pilon             | Quinto Andar            |
-| 30       | Glauco            | MFIT Personal           |
-| 29       | Henrique          | TikTok                  |
-| 29       | Luita             | Fórmula 1               |
-| 28       | Augusto           | Expo Go                 |
-| 28       | Alice             | Fley                    |
-| 28       | Glauco            | Wolf                    |
-| 27       | Glauco            | YouTube Premium         |
-| 27       | Dezão             | Cifra Club              |
-| 27       | Lucas             | 99                      |
-| 25       | Ris               | Starlink                |
-| 25       | Fabio Beiço       | Elementor               |
-| 25       | Henrique          | Refood                  |
-| 24       | Danilera          | C6                      |
-| 24       | Agata Cristina    | Food to Save            |
-| 24       | Ris               | Vivino                  |
-| 24       | Eduardo           | Diário Oficial da União |
-| 24       | Pilon             | Sem Parar               |
-| 24       | Ouvinte anônimo   | Bumble                  |
-| 23       | Agata Cristina    | Linkedin                |
-| 23       | Adriana Barros    | Linkedin (ouvir nome)   |
+| Episódio | Ouvinte           | Produto                                  |
+| -------- | ----------------- | ---------------------------------------- |
+| 64       | Aíquis            | Balatro                                  |
+| 64       | Arthur            | Ray-Ban Meta                             |
+| 64       | Nina              | Drogasil                                 |
+| 64       | Efren             | Napkin                                   |
+| 64       | Boss              | N8n                                      |
+| 64       | Nana              | Mercado Bitcoin                          |
+| 64       | Andrézinho        | Duolingo                                 |
+| 64       | Lucas             | Airfryer Ritalobo                        |
+| 64       | Mila              | Pipefy                                   |
+| 64       | nery              | thefork                                  |
+| 64       | karina            | Kindle                                   |
+| 64       | pilon             | Instacarro                               |
+| 64       | Beiçola           | Lindt                                    |
+| 64       | Bruna             | GymRats                                  |
+| 64       | Lavin             | Teams/Office                             |
+| 64       | Clovis            | Magie                                    |
+| 64       | Alice             | DualSense                                |
+| 63       | Aíquis            | Ventilador Mondial Super Turbo VTX 8 Pás |
+| 63       | Arthur            | Gentler Streak                           |
+| 63       | Alana             | Duolingo                                 |
+| 63       | Dezão             | Moises.AI                                |
+| 63       | Lukão             | Plague Evolved                           |
+| 63       | Glauco            | Total Pass                               |
+| 63       | Jéssica           | Liti                                     |
+| 63       | Nery              | FileBrowser Go                           |
+| 63       | Danilera          | C6 (IA)                                  |
+| 63       | Murilo            | SOS Golpes                               |
+| 62       | Nana              | Alelo                                    |
+| 62       | Glauco            | PicPay                                   |
+| 62       | Cloves            | XPT                                      |
+| 62       | Aíquis            | Munhequeira                              |
+| 62       | Arthur            | Zoom AI Companion                        |
+| 61       | Arthur            | Spro                                     |
+| 61       | Aíquis            | Microsoft Edge (cupons)                  |
+| 61       | Danilo            | Pilot                                    |
+| 61       | Maria             | Netflix                                  |
+| 61       | Brian             | Reddit                                   |
+| 61       | Lucas             | Pinterest                                |
+| 61       | Lucas             | Match                                    |
+| 61       | Ouvinte anônimo   | SP+ Parking                              |
+| 60       | Danilo            | Scoob                                    |
+| 60       | Lukão             | BuyTicket                                |
+| 60       | Lucas             | n8n                                      |
+| 60       | Aíquis            | Kindle                                   |
+| 60       | Thiago            | Bionic Go                                |
+| 59       | Danilera          | Land Builder                             |
+| 58       | Lucas             | Smiles                                   |
+| 58       | Cloves            | Quinto Andar                             |
+| 58       | Nery              | Clash Pass                               |
+| 58       | Karina            | 99                                       |
+| 58       | Andrezinho        | Duolingo                                 |
+| 58       | Glauco            | CEP (app da creche)                      |
+| 57       | Boss              | Retool                                   |
+| 57       | Mat Mou           | Rocket Money                             |
+| 57       | Karina            | Bike                                     |
+| 57       | Pilon             | ChatGPT + Google Lens                    |
+| 57       | Nana              | Netflix                                  |
+| 57       | Bruna             | Tocan                                    |
+| 56       | Nana              | Township                                 |
+| 56       | Amanda            | Practica                                 |
+| 56       | Alex              | Zé Delivery                              |
+| 56       | Glauco            | ChatGPT                                  |
+| 56       | Portinho          | Claude                                   |
+| 56       | Leandro           | Omnivore                                 |
+| 56       | Fabio Beiço       | WhatsApp                                 |
+| 56       | Danilera          | Age of Empires Mobile                    |
+| 56       | Mat               | Trela                                    |
+| 56       | Karina            | Training Peaks                           |
+| 56       | Brian             | PicPay                                   |
+| 55       | Glauco            | Nike                                     |
+| 53       | Brian             | Moises.AI                                |
+| 53       | Maria             | Banana Mercado                           |
+| 53       | Lucas             | Cifra Club                               |
+| 53       | Dudu Magalhães    | Tesla                                    |
+| 53       | Nana              | Garmin Connect                           |
+| 53       | Cloves            | WhatsApp                                 |
+| 53       | Karina            | Quebra-cabeça                            |
+| 52       | Nery              | Seats.aero                               |
+| 52       | Danilera          | Cadeira de balanço                       |
+| 51       | Karina            | Monument Valley                          |
+| 51       | Alexandre Pereira | Sports Alerts                            |
+| 51       | Andrezinho        | TripAdvisor                              |
+| 51       | Lukão             | Rock in Rio                              |
+| 51       | Nery              | FileBrowser Go                           |
+| 51       | Danilera          | Alexa                                    |
+| 48       | Luquita           | Liti                                     |
+| 48       | Nana              | Apple Weather                            |
+| 48       | Paulo Marcos LV   | My Baby                                  |
+| 48       | Andrezão          | Mercado Livre                            |
+| 48       | Carina            | Mercado Livre                            |
+| 48       | Alana             | Revolut                                  |
+| 48       | Pri Chagas        | Meu Dinheiro Web                         |
+| 48       | Lucas             | Musixmatch                               |
+| 48       | Cloves            | Bandcamp                                 |
+| 47       | Glauco            | iChat                                    |
+| 47       | Marina Fernandes  | PowerBeats Pro                           |
+| 47       | Carol Cardoso     | WhatsApp                                 |
+| 46       | Cloves            | Figma Slides                             |
+| 46       | Karina            | Nock Knx                                 |
+| 46       | Brian             | YouTube Premium                          |
+| 46       | Lucas             | Abastece Aí                              |
+| 46       | Lucas             | Ingresso.com                             |
+| 42       | Lukão             | Disney+                                  |
+| 42       | Glauco            | Spotify                                  |
+| 42       | Rodrigo           | CapCut                                   |
+| 42       | Danilera          | Audible                                  |
+| 42       | Projeto Fitness   | Samsung Health                           |
+| 41       | Bob               | Spotify                                  |
+| 41       | Glauco            | HBO Max                                  |
+| 41       | Lucas             | Bipa                                     |
+| 41       | Cloves            | Invisible AI                             |
+| 41       | Nana              | Canva                                    |
+| 41       | Miria             | iFood                                    |
+| 39       | Henrique Boss     | Pocket                                   |
+| 39       | Priscila          | Power Automate                           |
+| 39       | Andrezinho        | Spotify                                  |
+| 36       | Cloves            | Blink                                    |
+| 36       | Nana              | Google Maps                              |
+| 36       | Amanda            | Zoom                                     |
+| 36       | Luiz              | TunnelBear                               |
+| 36       | Montoy            | Atlas.ti                                 |
+| 35       | César             | SL                                       |
+| 35       | Paulo             | Golf                                     |
+| 35       | Glauco            | Zona Azul                                |
+| 34       | Glauco            | Dasa                                     |
+| 34       | Mateus            | United Airlines                          |
+| 34       | Ouvinte anônimo   | Tinder                                   |
+| 33       | Danilera          | Garmin Connect                           |
+| 33       | Edu               | MSC for Me                               |
+| 33       | Mozão             | WhatsApp                                 |
+| 33       | Bigodin           | CapCut                                   |
+| 33       | Beola             | Yazio                                    |
+| 33       | Lucas             | Google Scholar                           |
+| 32       | Pri Chagas        | Todoist                                  |
+| 32       | Wilson de Moraes  | Total Pass                               |
+| 32       | Miriam            | Strava                                   |
+| 32       | Paulo             | Splitwise                                |
+| 32       | Andrezão          | SkyView                                  |
+| 32       | Lucas Mattos      | Esteto                                   |
+| 32       | Pilon             | Mercado Livre                            |
+| 32       | Sala              | 1Password                                |
+| 32       | Ana Romeu         | ZenChef                                  |
+| 30       | Dezão             | Before Waste                             |
+| 30       | Nana              | Splitwise                                |
+| 30       | Pilon             | Quinto Andar                             |
+| 30       | Glauco            | MFIT Personal                            |
+| 29       | Henrique          | TikTok                                   |
+| 29       | Luita             | Fórmula 1                                |
+| 28       | Augusto           | Expo Go                                  |
+| 28       | Alice             | Fley                                     |
+| 28       | Glauco            | Wolf                                     |
+| 27       | Glauco            | YouTube Premium                          |
+| 27       | Dezão             | Cifra Club                               |
+| 27       | Lucas             | 99                                       |
+| 25       | Ris               | Starlink                                 |
+| 25       | Fabio Beiço       | Elementor                                |
+| 25       | Henrique          | Refood                                   |
+| 24       | Danilera          | C6                                       |
+| 24       | Agata Cristina    | Food to Save                             |
+| 24       | Ris               | Vivino                                   |
+| 24       | Eduardo           | Diário Oficial da União                  |
+| 24       | Pilon             | Sem Parar                                |
+| 24       | Ouvinte anônimo   | Bumble                                   |
+| 23       | Agata Cristina    | Linkedin                                 |
+| 23       | Adriana Barros    | Linkedin (ouvir nome)                    |
