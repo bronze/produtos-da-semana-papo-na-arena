@@ -64,12 +64,17 @@
 | 59       | Ana Romeu         | Swapfiets                                |
 | 59       | Andrezão          | Pokemón TCG                              |
 | 59       | Danilera          | Land Builder                             |
+| 58       | Arthur            | Rapid API                                |
+| 58       | Aíquis            | Pokémon TCG                              |
 | 58       | Lucas             | Smiles                                   |
+| 58       | Pilon             | Instagram (detox)                        |
 | 58       | Cloves            | Quinto Andar                             |
 | 58       | Nery              | Clash Pass                               |
 | 58       | Karina            | 99                                       |
 | 58       | Andrezinho        | Duolingo                                 |
-| 58       | Glauco            | CEP (app da creche)                      |
+| 58       | Glauco            | ClassApp (app da creche)                 |
+| 58       | Lukão             | Eventos do Whatsapp                      |
+| ---      | ----------------- | -----------------------                  |
 | 57       | Boss              | Retool                                   |
 | 57       | Mat Mou           | Rocket Money                             |
 | 57       | Karina            | Bike                                     |
