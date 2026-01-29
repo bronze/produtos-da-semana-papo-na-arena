@@ -240,14 +240,17 @@
 | 42       | Nana              | CapCut                                   |
 | 42       | Danilera          | Audible                                  |
 | 42       | Cauê              | Samsung Health                           |
-| ---      | ----------------- | -----------------------                  |
-| 41       | Cauê              | Gravidez+                                |
-| 41       | Cauê              | Buscapé/Zoom                             |
-| 41       | Cauê              | Invisibility AI                          |
-| 41       | Cauê              | Connect da Garmin                        |
-| 41       | Cauê              | R Studio                                 |
-| 41       | Cauê              | MAX                                      |
-| 41       | Cauê              | Bipa                                     |
+| 41       | Arthur            | Gravidez+                                |
+| 41       | Arthur            | Ray-ban/Meta                             |
+| 41       | Aíquis            | Buscapé + Zoom                           |
+| 41       | Cloves            | Invisibility AI                          |
+| 41       | Nana              | Canva                                    |
+| 41       | Miriam            | iFood (mostrar a lista do mercado)       |
+| 41       | Karina            | Connect da Garmin                        |
+| 41       | Eduardo           | R-Studio                                 |
+| 41       | Bob               | Spotify                                  |
+| 41       | Glauco            | MAX                                      |
+| 41       | Lucas             | Bipa                                     |
 | ---      | ----------------- | -----------------------                  |
 | 41       | Bob               | Spotify                                  |
 | 41       | Glauco            | HBO Max                                  |
