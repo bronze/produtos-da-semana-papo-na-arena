@@ -218,6 +218,19 @@
 | 45       | Glauco            | Bradesco Saúde                           |
 | 45       | Lucas             | Selina                                   |
 | 45       | Mateus            | NordVPN                                  |
+| 43       | Arthur            | Amazon                                   |
+| 43       | Arthur            | StockX                                   |
+| 43       | Aíquis            | Twitter                                  |
+| 43       | Aíquis            | Telegram                                 |
+| 43       | Karina            | B.blend                                  |
+| 43       | Andrezão          | Azul (jogo de tabuleiro)                 |
+| 43       | Andrezinho        | Crunchyroll                              |
+| 43       | Lucas             | Snowflake                                |
+| 43       | Glauco            | Vivino                                   |
+| 43       | Nana              | Strava                                   |
+| 43       | Victor            | Squad Busters                            |
+| 43       | Caco              | Daki                                     |
+| 43       | Pilon             | Net-Claro Wi-Fi                          |
 | ---      | ----------------- | -----------------------                  |
 | 42       | Lukão             | Disney+                                  |
 | 42       | Glauco            | Spotify                                  |
