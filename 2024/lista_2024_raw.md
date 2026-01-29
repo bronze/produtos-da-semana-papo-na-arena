@@ -205,6 +205,19 @@
 | 46       | Cauê              | Ingresso.com                             |
 | 46       | Pilon             | Strava                                   |
 | 46       | Neuri             | Strava                                   |
+| 45       | Arthur            | Mosaico do Youtube na CazéTV             |
+| 45       | Arthur            | Globo Esporte (Push Notification)        |
+| 45       | Aíquis            | Mosaico do Youtube na CazéTV             |
+| 45       | Aíquis            | App das Olimpíadas                       |
+| 45       | Nana              | CazéTV                                   |
+| 45       | Danilera          | Globo Esporte (Olimpíadas)               |
+| 45       | Bruno             | YouTube                                  |
+| 45       | Marina            | Wise                                     |
+| 45       | Marina            | Nomad                                    |
+| 45       | Andrezão          | Potion Explosion (jogo de tabuleiro)     |
+| 45       | Glauco            | Bradesco Saúde                           |
+| 45       | Lucas             | Selina                                   |
+| 45       | Mateus            | NordVPN                                  |
 | ---      | ----------------- | -----------------------                  |
 | 42       | Lukão             | Disney+                                  |
 | 42       | Glauco            | Spotify                                  |
