@@ -136,13 +136,16 @@
 | 52       | Glauco            | Passwords da Apple                       |
 | 52       | Nery              | Seats.aero                               |
 | 52       | Danilera          | Cadeira de balanço pra bebê              |
-| ---      | ----------------- | -----------------------                  |
+| 51       | Arthur            | NotebookLM                               |
+| 51       | Aíquis            | Kabum! Smart 700                         |
 | 51       | Karina            | Monument Valley                          |
 | 51       | Alexandre Pereira | Sports Alerts                            |
 | 51       | Andrezinho        | TripAdvisor                              |
+| 51       | Fabinho           | Inalador                                 |
 | 51       | Lukão             | Rock in Rio                              |
 | 51       | Nery              | FileBrowser Go                           |
 | 51       | Danilera          | Alexa                                    |
+| ---      | ----------------- | -----------------------                  |
 | 48       | Luquita           | Liti                                     |
 | 48       | Nana              | Apple Weather                            |
 | 48       | Paulo Marcos LV   | My Baby                                  |
