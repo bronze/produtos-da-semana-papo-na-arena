@@ -165,16 +165,21 @@
 | 49       | Nery              | Offramp                                  |
 | 49       | Eru               | Liti                                     |
 | 49       | Fabio             | Liti                                     |
-| ---      | ----------------- | -----------------------                  |
+| 48       | Aíquis            | ClaroTV+                                 |
+| 48       | Arthur            | Alexa                                    |
+| 48       | Mateus            | Baby Tracker                             |
 | 48       | Luquita           | Liti                                     |
 | 48       | Nana              | Apple Weather                            |
-| 48       | Paulo Marcos LV   | My Baby                                  |
+| 48       | Marcos Lavin      | My Baby                                  |
+| 48       | Michelli Chagas   | Trainiac                                 |
 | 48       | Andrezão          | Mercado Livre                            |
-| 48       | Carina            | Mercado Livre                            |
+| 48       | Karina            | Mercado Livre                            |
+| 48       | Cauê              | Reserva.Ink                              |
 | 48       | Alana             | Revolut                                  |
 | 48       | Pri Chagas        | Meu Dinheiro Web                         |
 | 48       | Lucas             | Musixmatch                               |
 | 48       | Cloves            | Bandcamp                                 |
+| ---      | ----------------- | -----------------------                  |
 | 47       | Glauco            | iChat                                    |
 | 47       | Marina Fernandes  | PowerBeats Pro                           |
 | 47       | Carol Cardoso     | WhatsApp                                 |
