@@ -110,14 +110,21 @@
 | 55       | Lucas             | Rappi                                    |
 | 55       | Danilera          | Sam's Club                               |
 | 55       | Glauco            | Nike                                     |
-| ---      | ----------------- | -----------------------                  |
+| 53       | Aíquis            | Duo Gourmet                              |
+| 53       | Arthur            | Whoop                                    |
+| 53       | Andrezão          | Duo Gourmet                              |
+| 53       | Matias            | Seats.aero                               |
 | 53       | Brian             | Moises.AI                                |
 | 53       | Maria             | Banana Mercado                           |
 | 53       | Lucas             | Cifra Club                               |
 | 53       | Dudu Magalhães    | Tesla                                    |
+| 53       | Glauco            | ClassApp                                 |
+| 53       | Mat               | Sprout                                   |
 | 53       | Nana              | Garmin Connect                           |
+| 53       | Lucas             | Room planner                             |
 | 53       | Cloves            | WhatsApp                                 |
 | 53       | Karina            | Quebra-cabeça                            |
+| ---      | ----------------- | -----------------------                  |
 | 52       | Nery              | Seats.aero                               |
 | 52       | Danilera          | Cadeira de balanço                       |
 | 51       | Karina            | Monument Valley                          |
