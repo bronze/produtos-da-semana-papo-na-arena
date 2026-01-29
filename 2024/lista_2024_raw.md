@@ -179,10 +179,21 @@
 | 48       | Pri Chagas        | Meu Dinheiro Web                         |
 | 48       | Lucas             | Musixmatch                               |
 | 48       | Cloves            | Bandcamp                                 |
-| ---      | ----------------- | -----------------------                  |
-| 47       | Glauco            | iChat                                    |
+| 47       | Aíquis            | Joker Card                               |
+| 47       | Arthur            | Ring                                     |
+| 47       | Karina            | Shopee                                   |
+| 47       | Maria             | Cabana Burger                            |
+| 47       | Andressa Carbone  | Mercado Livre                            |
+| 47       | Marcos Lavin      | Child Growth                             |
+| 47       | Pedro Moreno      | Microsoft Teams                          |
+| 47       | Alana             | Khan Academy                             |
+| 47       | Thiago Oliveira   | Cafu                                     |
+| 47       | Pri Chagas        | TL;DV                                    |
+| 47       | Dani              | Desrotulando                             |
+| 47       | Glauco            | WeChat                                   |
 | 47       | Marina Fernandes  | PowerBeats Pro                           |
 | 47       | Carol Cardoso     | WhatsApp                                 |
+| ---      | ----------------- | -----------------------                  |
 | 46       | Cloves            | Figma Slides                             |
 | 46       | Karina            | Nock Knx                                 |
 | 46       | Brian             | YouTube Premium                          |
