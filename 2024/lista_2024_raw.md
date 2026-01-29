@@ -124,9 +124,19 @@
 | 53       | Lucas             | Room planner                             |
 | 53       | Cloves            | WhatsApp                                 |
 | 53       | Karina            | Quebra-cabeça                            |
-| ---      | ----------------- | -----------------------                  |
+| 52       | Aíquis            | Sleeper Fantasy Football                 |
+| 52       | Arthur            | Luma                                     |
+| 52       | Nina              | Pagaleve                                 |
+| 52       | Karina            | Miro                                     |
+| 52       | Brian             | Substack                                 |
+| 52       | Nana              | Perplexity                               |
+| 52       | Mat               | Polycam                                  |
+| 52       | Fabinho           | Github                                   |
+| 52       | Lucas             | Wellhub                                  |
+| 52       | Glauco            | Passwords da Apple                       |
 | 52       | Nery              | Seats.aero                               |
-| 52       | Danilera          | Cadeira de balanço                       |
+| 52       | Danilera          | Cadeira de balanço pra bebê              |
+| ---      | ----------------- | -----------------------                  |
 | 51       | Karina            | Monument Valley                          |
 | 51       | Alexandre Pereira | Sports Alerts                            |
 | 51       | Andrezinho        | TripAdvisor                              |
