@@ -232,11 +232,16 @@
 | 43       | Caco              | Daki                                     |
 | 43       | Pilon             | Net-Claro Wi-Fi                          |
 | ---      | ----------------- | -----------------------                  |
-| 42       | Lukão             | Disney+                                  |
-| 42       | Glauco            | Spotify                                  |
-| 42       | Rodrigo           | CapCut                                   |
-| 42       | Danilera          | Audible                                  |
-| 42       | Projeto Fitness   | Samsung Health                           |
+| 41       | Arthur            | Zoom                                     |
+| 41       | Aíquis            | Shopee                                   |
+| 41       | Lucão             | Disney+                                  |
+| 41       | Glauco            | Spotify                                  |
+| 41       | Cloves            | Spotify                                  |
+| 41       | Pilon             | gov.br                                   |
+| 41       | Nana              | CapCut                                   |
+| 41       | Danilera          | Audible                                  |
+| 41       | Cauê              | Samsung Health                           |
+| ---      | ----------------- | -----------------------                  |
 | 41       | Bob               | Spotify                                  |
 | 41       | Glauco            | HBO Max                                  |
 | 41       | Lucas             | Bipa                                     |
