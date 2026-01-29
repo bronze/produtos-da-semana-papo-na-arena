@@ -86,17 +86,21 @@
 | 57       | Nana              | Netflix                                  |
 | 57       | Bruna             | Toqan                                    |
 | ---      | ----------------- | -----------------------                  |
+| 56       | Aíquis            | Uber Taxi                                |
+| 56       | Arthur            | Standing Desk (Pichau)                   |
 | 56       | Nana              | Township                                 |
-| 56       | Amanda            | Practica                                 |
+| 56       | Amanda            | Praktika                                 |
 | 56       | Alex              | Zé Delivery                              |
 | 56       | Glauco            | ChatGPT                                  |
 | 56       | Portinho          | Claude                                   |
 | 56       | Leandro           | Omnivore                                 |
-| 56       | Fabio Beiço       | WhatsApp                                 |
+| 56       | Beiçola           | WhatsApp                                 |
 | 56       | Danilera          | Age of Empires Mobile                    |
 | 56       | Mat               | Trela                                    |
 | 56       | Karina            | Training Peaks                           |
 | 56       | Brian             | PicPay                                   |
+| 56       | Cauê              | Sam's Club                               |
+| ---      | ----------------- | -----------------------                  |
 | 55       | Glauco            | Nike                                     |
 | 53       | Brian             | Moises.AI                                |
 | 53       | Maria             | Banana Mercado                           |
