@@ -231,16 +231,23 @@
 | 43       | Victor            | Squad Busters                            |
 | 43       | Caco              | Daki                                     |
 | 43       | Pilon             | Net-Claro Wi-Fi                          |
+| 42       | Arthur            | Zoom                                     |
+| 42       | Aíquis            | Shopee                                   |
+| 42       | Lucão             | Disney+                                  |
+| 42       | Glauco            | Spotify                                  |
+| 42       | Cloves            | Spotify                                  |
+| 42       | Pilon             | gov.br                                   |
+| 42       | Nana              | CapCut                                   |
+| 42       | Danilera          | Audible                                  |
+| 42       | Cauê              | Samsung Health                           |
 | ---      | ----------------- | -----------------------                  |
-| 41       | Arthur            | Zoom                                     |
-| 41       | Aíquis            | Shopee                                   |
-| 41       | Lucão             | Disney+                                  |
-| 41       | Glauco            | Spotify                                  |
-| 41       | Cloves            | Spotify                                  |
-| 41       | Pilon             | gov.br                                   |
-| 41       | Nana              | CapCut                                   |
-| 41       | Danilera          | Audible                                  |
-| 41       | Cauê              | Samsung Health                           |
+| 41       | Cauê              | Gravidez+                                |
+| 41       | Cauê              | Buscapé/Zoom                             |
+| 41       | Cauê              | Invisibility AI                          |
+| 41       | Cauê              | Connect da Garmin                        |
+| 41       | Cauê              | R Studio                                 |
+| 41       | Cauê              | MAX                                      |
+| 41       | Cauê              | Bipa                                     |
 | ---      | ----------------- | -----------------------                  |
 | 41       | Bob               | Spotify                                  |
 | 41       | Glauco            | HBO Max                                  |
