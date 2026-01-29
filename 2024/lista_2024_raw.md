@@ -193,12 +193,19 @@
 | 47       | Glauco            | WeChat                                   |
 | 47       | Marina Fernandes  | PowerBeats Pro                           |
 | 47       | Carol Cardoso     | WhatsApp                                 |
-| ---      | ----------------- | -----------------------                  |
+| 46       | Arthur            | Liti                                     |
+| 46       | Aíquis            | Wine                                     |
 | 46       | Cloves            | Figma Slides                             |
-| 46       | Karina            | Nock Knx                                 |
-| 46       | Brian             | YouTube Premium                          |
+| 46       | Danilera          | Porto Seguro                             |
+| 46       | Glauco            | Nespresso                                |
+| 46       | Karina            | Nok Nox                                  |
+| 46       | Brian             | Youtube Premium                          |
 | 46       | Lucas             | Abastece Aí                              |
-| 46       | Lucas             | Ingresso.com                             |
+| 46       | Lucas (outro)     | KlingAI                                  |
+| 46       | Cauê              | Ingresso.com                             |
+| 46       | Pilon             | Strava                                   |
+| 46       | Neuri             | Strava                                   |
+| ---      | ----------------- | -----------------------                  |
 | 42       | Lukão             | Disney+                                  |
 | 42       | Glauco            | Spotify                                  |
 | 42       | Rodrigo           | CapCut                                   |
