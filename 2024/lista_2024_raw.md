@@ -85,7 +85,6 @@
 | 57       | Pilon             | Google Lens                              |
 | 57       | Nana              | Netflix                                  |
 | 57       | Bruna             | Toqan                                    |
-| ---      | ----------------- | -----------------------                  |
 | 56       | Aíquis            | Uber Taxi                                |
 | 56       | Arthur            | Standing Desk (Pichau)                   |
 | 56       | Nana              | Township                                 |
@@ -100,8 +99,18 @@
 | 56       | Karina            | Training Peaks                           |
 | 56       | Brian             | PicPay                                   |
 | 56       | Cauê              | Sam's Club                               |
-| ---      | ----------------- | -----------------------                  |
+| 55       | Arthur            | Strava                                   |
+| 55       | Aíquis            | ChatGPT                                  |
+| 55       | Sheila Chang      | Hostinger (Construtor de sites)          |
+| 55       | Cauê              | Splitwise                                |
+| 55       | Larissa           | AirBnB                                   |
+| 55       | Karina            | App do Condomínio                        |
+| 55       | Maria             | Scrabble                                 |
+| 55       | Mat               | App da Maratona de Chicago               |
+| 55       | Lucas             | Rappi                                    |
+| 55       | Danilera          | Sam's Club                               |
 | 55       | Glauco            | Nike                                     |
+| ---      | ----------------- | -----------------------                  |
 | 53       | Brian             | Moises.AI                                |
 | 53       | Maria             | Banana Mercado                           |
 | 53       | Lucas             | Cifra Club                               |
