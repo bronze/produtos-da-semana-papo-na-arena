@@ -145,6 +145,26 @@
 | 51       | Lukão             | Rock in Rio                              |
 | 51       | Nery              | FileBrowser Go                           |
 | 51       | Danilera          | Alexa                                    |
+| 49       | Arthur            | X (Twitter)                              |
+| 49       | Aíquis            | Threads                                  |
+| 49       | Ágata Cristina    | MAX                                      |
+| 49       | Gabriel           | Aiqfome                                  |
+| 49       | Alice Portugal    | Apple Watch                              |
+| 49       | Pri Chagas        | Adidas Running                           |
+| 49       | Bob               | Deezer                                   |
+| 49       | Cauê              | Sketchbook                               |
+| 49       | Karina            | Linkedin                                 |
+| 49       | Glauco            | Bioritmo                                 |
+| 49       | Alexandre Magno   | Broadlink                                |
+| 49       | Nana              | Livelo                                   |
+| 49       | Pilon             | Pinterest                                |
+| 49       | Portinho          | iFood                                    |
+| 49       | Mateus            | NordVPN                                  |
+| 49       | Thiago            | NordVPN                                  |
+| 49       | Danilera          | Sticker.ly                               |
+| 49       | Nery              | Offramp                                  |
+| 49       | Eru               | Liti                                     |
+| 49       | Fabio             | Liti                                     |
 | ---      | ----------------- | -----------------------                  |
 | 48       | Luquita           | Liti                                     |
 | 48       | Nana              | Apple Weather                            |
