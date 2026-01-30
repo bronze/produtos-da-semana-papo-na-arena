@@ -264,17 +264,14 @@
 | 39       | Boss              | Capacities                               |
 | 39       | Luquita           | Power Automate                           |
 | 39       | Andrezinho        | Spotify                                  |
-| ---      | ----------------- | -----------------------                  |
 | 38       | Arthur            | Magie                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
-| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Duolingo                                 |
+| 38       | Miriam            | Quinto Andar                             |
+| 38       | Karina            | Splitwise                                |
+| 38       | Cauê              | MoxTopper (app pra Magic: The Gathering) |
+| 38       | Neuri             | ChatGPT                                  |
+| 38       | Nat               | TecnofitBox                              |
+| 38       | Lucas             | Swiftkey                                 |
 | ---      | ----------------- | -----------------------                  |
 | 36       | Cloves            | Blink                                    |
 | 36       | Nana              | Google Maps                              |
