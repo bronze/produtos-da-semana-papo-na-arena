@@ -405,4 +405,10 @@
 | 23       | Bruno             | YNAB                                     |
 | 23       | Montoya           | Samsung Health                           |
 | 23       | Cesar             | Salesforce                               |
-| ---      | ---------------   | -----------------------                  |
+| 22       | Arthur            | TrainingPeaks                            |
+| 22       | Aíquis            | Star+                                    |
+| 22       | Anônimo           | Notion                                   |
+| 22       | Anônimo           | Wise                                     |
+| 22       | Anônimo           | Oceanic Plus                             |
+| 21       | Arthur            | Audible                                  |
+| 21       | Aíquis            | Splitwise                                |
