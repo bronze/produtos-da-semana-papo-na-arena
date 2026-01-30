@@ -251,16 +251,31 @@
 | 41       | Bob               | Spotify                                  |
 | 41       | Glauco            | MAX                                      |
 | 41       | Lucas             | Bipa                                     |
-| ---      | ----------------- | -----------------------                  |
-| 41       | Bob               | Spotify                                  |
-| 41       | Glauco            | HBO Max                                  |
-| 41       | Lucas             | Bipa                                     |
-| 41       | Cloves            | Invisible AI                             |
-| 41       | Nana              | Canva                                    |
-| 41       | Miria             | iFood                                    |
-| 39       | Henrique Boss     | Pocket                                   |
-| 39       | Priscila          | Power Automate                           |
+| 39       | Aíquis            | Stoop Inbox                              |
+| 39       | Arthur            | Sauna Portátil Lifepro                   |
+| 39       | Danilera          | Mobills                                  |
+| 39       | Lucão             | Nav Dasa (variante da Dasa)              |
+| 39       | Neuri             | WebDiet                                  |
+| 39       | Miriam            | Netflix Skip Intro                       |
+| 39       | Karina            | Waze                                     |
+| 39       | Cauê              | Download inteligente do Youtube Premium  |
+| 39       | Glauco            | Nespresso                                |
+| 39       | Welington         | Pocket                                   |
+| 39       | Boss              | Capacities                               |
+| 39       | Luquita           | Power Automate                           |
 | 39       | Andrezinho        | Spotify                                  |
+| ---      | ----------------- | -----------------------                  |
+| 38       | Arthur            | Magie                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| 38       | Aíquis            | Stoop                                    |
+| ---      | ----------------- | -----------------------                  |
 | 36       | Cloves            | Blink                                    |
 | 36       | Nana              | Google Maps                              |
 | 36       | Amanda            | Zoom                                     |
@@ -292,7 +307,7 @@
 | 30       | Pilon             | Quinto Andar                             |
 | 30       | Glauco            | MFIT Personal                            |
 | 29       | Henrique          | TikTok                                   |
-| 29       | Luita             | Fórmula 1                                |
+| 29       | Luquita           | Fórmula 1                                |
 | 28       | Augusto           | Expo Go                                  |
 | 28       | Alice             | Fley                                     |
 | 28       | Glauco            | Wolf                                     |
