@@ -358,9 +358,13 @@
 | 29       | Luquita           | Fórmula 1                                |
 | 29       | Anônimo           | I any go                                 |
 | ---      | ---------------   | -----------------------                  |
-| 28       | Augusto           | Expo Go                                  |
-| 28       | Alice             | Fley                                     |
-| 28       | Glauco            | Wolf                                     |
+| 28       | Aíquis            | Corsair HS80 Wireless                    |
+| 28       | Arthur            | Daylio                                   |
+| 28       | Lucas Matos       | SwingVision                              |
+| 28       | Eduardo Augusto   | ExpoGo                                   |
+| 28       | Alice             | Feedly                                   |
+| 28       | Glauco            | Wolfram                                  |
+| ---      | ---------------   | -----------------------                  |
 | 27       | Glauco            | YouTube Premium                          |
 | 27       | Dezão             | Cifra Club                               |
 | 27       | Lucas             | 99                                       |
