@@ -292,10 +292,18 @@
 | 35       | César             | Slack                                    |
 | 35       | Paulo             | Gov.br                                   |
 | 35       | Glauco            | Zona Azul                                |
-| ---      | ----------------- | -----------------------                  |
+| 34       | Arthur            | Instagram                                |
+| 34       | Aíquis            | Booking.com                              |
+| 34       | Eduardo Augusto   | Overleaf                                 |
+| 34       | Lucas             | Brilliant                                |
+| 34       | Ana               | Omio                                     |
+| 34       | Danilo            | Kindle                                   |
+| 34       | Sagradinho        | Excel                                    |
+| 34       | Andrezão          | GamePass                                 |
 | 34       | Glauco            | Dasa                                     |
 | 34       | Mateus            | United Airlines                          |
-| 34       | Ouvinte anônimo   | Tinder                                   |
+| 34       | Anônimo           | Tinder                                   |
+| ---      | ----------------- | -----------------------                  |
 | 33       | Danilera          | Garmin Connect                           |
 | 33       | Edu               | MSC for Me                               |
 | 33       | Mozão             | WhatsApp                                 |
