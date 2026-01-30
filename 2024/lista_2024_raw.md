@@ -377,25 +377,22 @@
 | 27       | Paulo             | abstece aí                               |
 | 27       | Pilon             | Alexa                                    |
 | 27       | Nana              | GymRats                                  |
-| ---      | ---------------   | -----------------------                  |
-| 25       | Ris               | Starlink                                 |
-| 25       | Fabio Beiço       | Elementor                                |
-| 25       | Henrique          | Refood                                   |
-| 25       | Henrique          | Fitness+                                 |
-| 25       | Henrique          | Samsung smart switch                     |
-| 25       | Henrique          | Garmin Connect:                          |
-| 25       | Henrique          | Blocos de Carnaval - Rua                 |
-| 25       | Henrique          | Starlink                                 |
-| 25       | Henrique          | Elementor                                |
+| 25       | Arthur            | Fitness+                                 |
+| 25       | Aíquis            | Samsung smart switch                     |
+| 25       | Lara Parodi       | Garmin Connect                           |
+| 25       | Reis              | Blocos de Carnaval de Rua                |
+| 25       | Fabio Beiço       | Starlink                                 |
+| 25       | Boss              | Elementor                                |
 | 25       | Henrique          | Canva                                    |
-| 25       | Henrique          | Refood                                   |
-| ---      | ---------------   | -----------------------                  |
+| 25       | Lucas             | Refood                                   |
+| 24       | Aíquis            | Arc for Windows                          |
+| 24       | Arthur            | TV Time                                  |
 | 24       | Danilera          | C6                                       |
-| 24       | Agata Cristina    | Food to Save                             |
-| 24       | Ris               | Vivino                                   |
-| 24       | Eduardo           | Diário Oficial da União                  |
+| 24       | Ágata Cristina    | Food to Save                             |
+| 24       | Reis              | Vivino                                   |
+| 24       | Eduardo           | App do Diário Oficial da União           |
 | 24       | Pilon             | Sem Parar                                |
-| 24       | Ouvinte anônimo   | Bumble                                   |
+| 24       | Anônimo           | Bumble                                   |
 | ---      | ---------------   | -----------------------                  |
 | 23       | Agata Cristina    | Linkedin                                 |
 | 23       | Adriana Barros    | Linkedin (ouvir nome)                    |
