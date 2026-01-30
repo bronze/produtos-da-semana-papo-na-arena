@@ -1,3 +1,5 @@
+import type {Episode} from "./mentions";
+
 // Episodes
 export const episodes: Episode[] = [
   // 2024 Episodes
@@ -7,7 +9,7 @@ export const episodes: Episode[] = [
     date: "2024-01-10",
     description: "Discussão sobre previsões para inteligência artificial e produto em 2024.",
     youtubeLink: "https://www.youtube.com/watch?v=tT8ytrU2Dtw",
-    spotifyLink: "",
+    spotifyLink: "https://open.spotify.com/episode/234RzKezAqJCQWscOt6itu",
   },
   {
     id: 22,
@@ -15,6 +17,7 @@ export const episodes: Episode[] = [
     date: "2024-01-17",
     description: "Discussão sobre os usos práticos do ChatGPT no cotidiano das pessoas.",
     youtubeLink: "https://www.youtube.com/watch?v=fWEQ6sWa-1k",
+    spotifyLink: "https://open.spotify.com/episode/47ew2fmvqotNS7wEctCXo1",
   },
   {
     id: 23,
@@ -22,6 +25,7 @@ export const episodes: Episode[] = [
     date: "2024-01-24",
     description: "Discussão sobre a presença de Product Managers no LinkedIn e se isso é necessário para o sucesso na carreira.",
     youtubeLink: "https://www.youtube.com/watch?v=VRKREVXlr5k",
+    spotifyLink: "https://open.spotify.com/episode/79xhRjhraaoWfgycFFaGfg",
   },
   {
     id: 24,
@@ -29,6 +33,7 @@ export const episodes: Episode[] = [
     date: "2024-01-31",
     description: "Discussão sobre Product Managers e zona de conforto, o fenômeno Palworld e a entrada da Netflix no esporte.",
     youtubeLink: "https://www.youtube.com/watch?v=qGFGrS1zPMs",
+    spotifyLink: "https://open.spotify.com/episode/5wfNRHd9Uk96QEGGBQlMFV",
   },
   {
     id: 25,
@@ -36,6 +41,7 @@ export const episodes: Episode[] = [
     date: "2024-02-07",
     description: "Discussão sobre o lançamento do Apple Vision Pro e se ele representa a próxima grande revolução tecnológica.",
     youtubeLink: "https://www.youtube.com/watch?v=9oudl3f6WCo",
+    spotifyLink: "https://open.spotify.com/episode/7DaNBfb9HNLH7IqUYB7QWt",
   },
   {
     id: 27,
@@ -43,6 +49,7 @@ export const episodes: Episode[] = [
     date: "2024-02-28",
     description: "Discussão sobre a importância de colocar ideias em prática e a criação de podcasts com inteligência artificial.",
     youtubeLink: "https://www.youtube.com/watch?v=SJ-JTwdBtQk",
+    spotifyLink: "https://open.spotify.com/episode/1TMI0R8dZvDnyEUnQsyWI2",
   },
   {
     id: 28,
@@ -50,6 +57,7 @@ export const episodes: Episode[] = [
     date: "2024-03-07",
     description: "Discussão sobre métricas de sucesso para líderes de produto e uma reflexão sobre uma internet sem anúncios.",
     youtubeLink: "https://www.youtube.com/watch?v=ax0HXsyi9xY",
+    spotifyLink: "https://open.spotify.com/episode/5roegYPH0UPG19ba6dwEJ9",
   },
   {
     id: 29,
@@ -57,6 +65,7 @@ export const episodes: Episode[] = [
     date: "2024-03-12",
     description: "Discussão sobre as ideias de Marty Cagan e sua aplicação no mundo de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=rocthk-PcHY",
+    spotifyLink: "https://open.spotify.com/episode/5FgAMd2QyxP9ZTdTdxDNHI",
   },
   {
     id: 30,
@@ -64,6 +73,7 @@ export const episodes: Episode[] = [
     date: "2024-04-05",
     description: "Discussão sobre inteligência artificial no futebol e como se tornar um product manager mais técnico.",
     youtubeLink: "https://www.youtube.com/watch?v=suWAYoNoCj8",
+    spotifyLink: "https://open.spotify.com/episode/6rKgVb9CC16H7MmmIXey2Q",
   },
   {
     id: 31,
@@ -71,6 +81,7 @@ export const episodes: Episode[] = [
     date: "2024-04-09",
     description: "Discussão sobre processos e como eles impactam (ou não) a percepção do usuário final.",
     youtubeLink: "https://www.youtube.com/watch?v=CdtUOrwQQEI",
+    spotifyLink: "https://open.spotify.com/episode/7ixhXQLSz5EYCCfUFHAiF1",
   },
   {
     id: 32,
@@ -78,6 +89,7 @@ export const episodes: Episode[] = [
     date: "2024-04-17",
     description: "Discussão sobre o fracasso do AI Pin da Humane e a relação entre estratégias de poker e produto.",
     youtubeLink: "https://www.youtube.com/watch?v=tHoLSaJSymY",
+    spotifyLink: "https://open.spotify.com/episode/41XKPLZSrzPpxISjX7cLeS",
   },
   {
     id: 33,
@@ -85,6 +97,7 @@ export const episodes: Episode[] = [
     date: "2024-04-24",
     description: "Discussão sobre o direito de se desconectar do trabalho e quando o microgerenciamento pode ser benéfico.",
     youtubeLink: "https://www.youtube.com/watch?v=1qznxnxz-hQ",
+    spotifyLink: "https://open.spotify.com/episode/6D8bU4LWXJrvA2W7diDCdp",
   },
   {
     id: 34,
@@ -92,6 +105,7 @@ export const episodes: Episode[] = [
     date: "2024-05-01",
     description: "Discussão sobre comunicação assertiva e desenvolvimento de product managers.",
     youtubeLink: "https://www.youtube.com/watch?v=jvWFkhjd4iA",
+    spotifyLink: "https://open.spotify.com/episode/1Ug1EFJFQADgfNkvDTjuD8",
   },
   {
     id: 35,
@@ -99,6 +113,7 @@ export const episodes: Episode[] = [
     date: "2024-05-07",
     description: "Discussão sobre cultura organizacional, silos, aquisições e politicagem no mundo de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=ZPP8EXU3ygg",
+    spotifyLink: "https://open.spotify.com/episode/7gL3Negla9m9imsJtBp43M",
   },
   {
     id: 36,
@@ -106,6 +121,7 @@ export const episodes: Episode[] = [
     date: "2024-05-14",
     description: "Discussão sobre os lançamentos recentes da OpenAI e do Google.",
     youtubeLink: "https://www.youtube.com/watch?v=p7EtnWxjGhA",
+    spotifyLink: "https://open.spotify.com/episode/3alwBDl2DTde1NgNul0rZo",
   },
   {
     id: 37,
@@ -113,6 +129,7 @@ export const episodes: Episode[] = [
     date: "2024-05-21",
     description: "Discussão sobre pensamento crítico e analítico no contexto de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=jLWibqR_Fwo",
+    spotifyLink: "https://open.spotify.com/episode/6pjfzGJfaiyiWq2qSJR3af",
   },
   {
     id: 38,
@@ -120,6 +137,7 @@ export const episodes: Episode[] = [
     date: "2024-05-28",
     description: "Discussão sobre consumo de conteúdo e um giro de notícias no mundo de inteligência artificial.",
     youtubeLink: "https://www.youtube.com/watch?v=FK2i6yDW0T0",
+    spotifyLink: "https://open.spotify.com/episode/32UgeXpOOUkzevTtoocLhv",
   },
   {
     id: 39,
@@ -127,6 +145,7 @@ export const episodes: Episode[] = [
     date: "2024-06-04",
     description: "Discussão sobre opiniões fortes, convicção e hype no processo de construção de produtos.",
     youtubeLink: "https://www.youtube.com/watch?v=vJc49mxRvig",
+    spotifyLink: "https://open.spotify.com/episode/1Nk7xxuPD3Bg9tZLjpv6pI",
   },
   {
     id: 41,
@@ -134,6 +153,7 @@ export const episodes: Episode[] = [
     date: "2024-06-26",
     description: "Discussão sobre estratégias de inteligência artificial: integrações, modelos e custos.",
     youtubeLink: "https://www.youtube.com/watch?v=ZOLQyN6lnxM",
+    spotifyLink: "https://open.spotify.com/episode/4gCPwl04SZaNS9LZf5SU0H",
   },
   {
     id: 42,
@@ -141,6 +161,7 @@ export const episodes: Episode[] = [
     date: "2024-07-02",
     description: "Discussão sobre a conferência do Figma e o ecossistema das comunidades de design e produto.",
     youtubeLink: "https://www.youtube.com/watch?v=ovZbc1AosZg",
+    spotifyLink: "https://open.spotify.com/episode/19BtSb18iLhIMLQov93bm5",
   },
   {
     id: 43,
@@ -148,6 +169,7 @@ export const episodes: Episode[] = [
     date: "2024-07-24",
     description: "Discussão sobre o novo modelo de IA da Meta, o sucesso de vendas do Ray-Ban e os desafios da Netflix com transmissões ao vivo.",
     youtubeLink: "https://www.youtube.com/watch?v=cV_bTxTo-Xo",
+    spotifyLink: "https://open.spotify.com/episode/16QS6NpX686gaIg5aLBkZ0",
   },
   {
     id: 45,
@@ -155,6 +177,7 @@ export const episodes: Episode[] = [
     date: "2024-08-07",
     description: "Discussão sobre Claude chegando ao Brasil, movimentações na OpenAI e controvérsia envolvendo Nvidia.",
     youtubeLink: "https://www.youtube.com/watch?v=PfQ59NhQ2xI",
+    spotifyLink: "https://open.spotify.com/episode/5bsZ5Gw5Gpr2tfDGhfYKtU",
   },
   {
     id: 46,
@@ -162,6 +185,7 @@ export const episodes: Episode[] = [
     date: "2024-08-14",
     description: "Discussão sobre o presente e futuro dos produtos de inteligência artificial e reflexões sobre estruturas organizacionais.",
     youtubeLink: "https://www.youtube.com/watch?v=kV2j9THFycM",
+    spotifyLink: "https://open.spotify.com/episode/2Qw7h1EKpj7IuuxGeLo08P",
   },
   {
     id: 47,
@@ -169,6 +193,7 @@ export const episodes: Episode[] = [
     date: "2024-08-21",
     description: "Discussão sobre técnicas de produtividade sem o uso de inteligência artificial.",
     youtubeLink: "https://www.youtube.com/watch?v=Uy5YsbmgKfg",
+    spotifyLink: "https://open.spotify.com/episode/5hRqP2dE49YRjTZWguy4z1",
   },
   {
     id: 48,
@@ -176,6 +201,7 @@ export const episodes: Episode[] = [
     date: "2024-08-28",
     description: "Discussão sobre a tendência de Design Engineers e as ferramentas da semana.",
     youtubeLink: "https://www.youtube.com/watch?v=5p9TU1_BpCw",
+    spotifyLink: "https://open.spotify.com/episode/35WZmYhbglxXzEc5T3kmo9",
   },
   {
     id: 49,
@@ -183,6 +209,7 @@ export const episodes: Episode[] = [
     date: "2024-09-04",
     description: "Análise do caso Sonos: redesign, roadmap público e impacto nas ações.",
     youtubeLink: "https://www.youtube.com/watch?v=w-QhACf3XoQ",
+    spotifyLink: "https://open.spotify.com/episode/4lQads2MkEn0uKKzhbNmI2",
   },
   {
     id: 51,
@@ -190,6 +217,7 @@ export const episodes: Episode[] = [
     date: "2024-09-18",
     description: "Discussão sobre o equilíbrio entre velocidade e qualidade e táticas de growth.",
     youtubeLink: "https://www.youtube.com/watch?v=794sVRaQjNQ",
+    spotifyLink: "https://open.spotify.com/episode/4g91Oig6hu7yABp2abzJOm",
   },
   {
     id: 52,
@@ -197,6 +225,7 @@ export const episodes: Episode[] = [
     date: "2024-09-25",
     description: "Análise do panorama atual do mercado de produto no Brasil.",
     youtubeLink: "https://www.youtube.com/watch?v=-COtX2uM_Dk",
+    spotifyLink: "https://open.spotify.com/episode/4cCJ0DXGSKhDjkhhx4Rw8a",
   },
   {
     id: 53,
@@ -204,6 +233,7 @@ export const episodes: Episode[] = [
     date: "2024-10-02",
     description: "Destaques e aprendizados do Product Leader Summit 2024.",
     youtubeLink: "https://www.youtube.com/watch?v=3Mw7wlIfqUc",
+    spotifyLink: "https://open.spotify.com/episode/5FBI8Bsb5Wl7SWbGIPwZzd",
   },
   {
     id: 55,
@@ -211,6 +241,7 @@ export const episodes: Episode[] = [
     date: "2024-10-15",
     description: "Entrevista com Sheila Chang sobre gestão de plataformas e APIs.",
     youtubeLink: "https://www.youtube.com/watch?v=PcANWhQEMWo",
+    spotifyLink: "https://open.spotify.com/episode/6goU5jYZdrxcOiYChx3q2s",
   },
   {
     id: 56,
@@ -218,6 +249,7 @@ export const episodes: Episode[] = [
     date: "2024-10-22",
     description: "Entrevista com Gisele Góes sobre carreira internacional e liderança feminina.",
     youtubeLink: "https://www.youtube.com/watch?v=Hk7_LnFe6hY",
+    spotifyLink: "https://open.spotify.com/episode/58SiJwaFDJJMjI7HXPGBiu",
   },
   {
     id: 57,
@@ -225,6 +257,7 @@ export const episodes: Episode[] = [
     date: "2024-10-30",
     description: "Discussão sobre a importância de executar bem o básico.",
     youtubeLink: "https://www.youtube.com/watch?v=PkJf-kVxuuk",
+    spotifyLink: "https://open.spotify.com/episode/6Q5UbV5s1otRNJQcF1tHE7",
   },
   {
     id: 58,
@@ -232,6 +265,7 @@ export const episodes: Episode[] = [
     date: "2024-11-06",
     description: "Discussão sobre o Lenny & Friends Summit com Fernanda Faria.",
     youtubeLink: "https://www.youtube.com/watch?v=5z4cqkC9COA",
+    spotifyLink: "https://open.spotify.com/episode/3QvuUuzciPRDuTz6qbY58m",
   },
   {
     id: 59,
@@ -239,6 +273,7 @@ export const episodes: Episode[] = [
     date: "2024-11-12",
     description: "Discussão sobre visões de AI como produto por líderes da OpenAI, Anthropic e Perplexity.",
     youtubeLink: "https://www.youtube.com/watch?v=hp_L2ASyrqg",
+    spotifyLink: "https://open.spotify.com/episode/5UI0e16XrpxZF16TXymrGK",
   },
   {
     id: 60,
@@ -246,6 +281,7 @@ export const episodes: Episode[] = [
     date: "2024-11-19",
     description: "Discussão sobre quem é responsável por criar a visão de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=RWLPKIsZrxE",
+    spotifyLink: "https://open.spotify.com/episode/6RX0BIHffDX0NAlAgSK0ia",
   },
   {
     id: 61,
@@ -253,6 +289,7 @@ export const episodes: Episode[] = [
     date: "2024-11-26",
     description: "Discussão sobre sinais de sucesso e fracasso de produtos.",
     youtubeLink: "https://www.youtube.com/watch?v=A6JYg0vm7Hw",
+    spotifyLink: "https://open.spotify.com/episode/1OQ89dewSwsUdxLtN8yHHz",
   },
   {
     id: 62,
@@ -260,6 +297,7 @@ export const episodes: Episode[] = [
     date: "2024-12-03",
     description: "Dicas sobre comunicação executiva e feedbacks de design.",
     youtubeLink: "https://www.youtube.com/watch?v=Dv8PE958MJ4",
+    spotifyLink: "https://open.spotify.com/episode/3cUfsZm4BG4Bqf1uLBkiny",
   },
   {
     id: 63,
@@ -267,6 +305,7 @@ export const episodes: Episode[] = [
     date: "2024-12-10",
     description: "Discussão sobre o futuro da função de GPM.",
     youtubeLink: "https://www.youtube.com/watch?v=dDHf0Ku0OSw",
+    spotifyLink: "https://open.spotify.com/episode/4GZS7Mohm2fZx5BDHN5RPJ",
   },
   {
     id: 64,
@@ -274,6 +313,7 @@ export const episodes: Episode[] = [
     date: "2024-12-17",
     description: "Retrospectiva do ano de 2024 para a área de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=dzNgj2BeBPw",
+    spotifyLink: "https://open.spotify.com/episode/5k5Dxrn99FZQmj2yLB4vWq",
   },
   // 2025 Episodes
   {
@@ -282,6 +322,7 @@ export const episodes: Episode[] = [
     date: "2025-01-08",
     description: "Previsões sobre produto, IA e o mercado tech para 2025.",
     youtubeLink: "https://www.youtube.com/watch?v=MkY8Fk2Zen0",
+    spotifyLink: "https://open.spotify.com/episode/20oyevb7btvvNiS7B5YUO2",
   },
   {
     id: 66,
@@ -289,6 +330,7 @@ export const episodes: Episode[] = [
     date: "2025-01-15",
     description: "Discussões sobre conversas difíceis e prototipagem com IA.",
     youtubeLink: "https://www.youtube.com/watch?v=EhubWDEdE9k",
+    spotifyLink: "https://open.spotify.com/episode/4pjMq5qTNcR1zEt2NQeNdy",
   },
   {
     id: 67,
@@ -296,6 +338,7 @@ export const episodes: Episode[] = [
     date: "2025-01-22",
     description: "Reflexões sobre carreira de produtos e o papel dos generalistas.",
     youtubeLink: "https://www.youtube.com/watch?v=n5tp6fN1V0k",
+    spotifyLink: "https://open.spotify.com/episode/1a6g32uZuzCP63QfykXR6E",
   },
   {
     id: 68,
@@ -303,6 +346,7 @@ export const episodes: Episode[] = [
     date: "2025-01-29",
     description: "Análise do DeepSeek e seu impacto no mercado de IA.",
     youtubeLink: "https://www.youtube.com/watch?v=uNwjPQLjKMI",
+    spotifyLink: "https://open.spotify.com/episode/7dLcZZ3dLyF8lAWJwDPvbU",
   },
   {
     id: 69,
@@ -310,6 +354,7 @@ export const episodes: Episode[] = [
     date: "2025-02-05",
     description: "Entrevista com Beatriz Kinguti sobre comunidades e no-code.",
     youtubeLink: "https://www.youtube.com/watch?v=_CpDJp1-EMU",
+    spotifyLink: "https://open.spotify.com/episode/3G7bbuIKLysDTKx6o76EKi",
   },
   {
     id: 70,
@@ -317,6 +362,7 @@ export const episodes: Episode[] = [
     date: "2025-02-12",
     description: "Experiências práticas construindo aplicativos com IA.",
     youtubeLink: "https://www.youtube.com/watch?v=DQvBEbF4fUs",
+    spotifyLink: "https://open.spotify.com/episode/6x07AgGwIYiejhVvwaf1WH",
   },
   {
     id: 71,
@@ -324,12 +370,15 @@ export const episodes: Episode[] = [
     date: "2025-02-19",
     description: "Análise do handbook do Duolingo e seu impacto na indústria.",
     youtubeLink: "https://www.youtube.com/watch?v=gm2dPWh8wv0",
+    spotifyLink: "https://open.spotify.com/episode/0iPDQ9YYg4iqgyAx38nSGZ",
   },
   {
     id: 72,
     title: "Seu roadmap vai mudar, e tá tudo bem.",
     date: "2025-02-26",
     description: "Discussão sobre flexibilidade no planejamento de produto.",
+    youtubeLink: "",
+    spotifyLink: "https://open.spotify.com/episode/6AFZ4fhBACtJs8FsAfSxfp",
   },
   {
     id: 73,
@@ -337,6 +386,7 @@ export const episodes: Episode[] = [
     date: "2025-03-12",
     description: "Impacto da IA nos roadmaps de grandes empresas.",
     youtubeLink: "https://www.youtube.com/watch?v=2IGxSlxFd34",
+    spotifyLink: "https://open.spotify.com/episode/4572iicjlZkRVC5Ygryi7G",
   },
   {
     id: 74,
@@ -344,6 +394,7 @@ export const episodes: Episode[] = [
     date: "2025-03-19",
     description: "Discussão sobre o uso de métricas em produto.",
     youtubeLink: "https://www.youtube.com/watch?v=xYACIBWDbCI",
+    spotifyLink: "https://open.spotify.com/episode/3O5jA6jLCtkOQAFJaYEoEI",
   },
   {
     id: 75,
@@ -351,6 +402,7 @@ export const episodes: Episode[] = [
     date: "2025-03-26",
     description: "Dicas para contratação de Product Managers.",
     youtubeLink: "https://www.youtube.com/watch?v=8r5aafUHVj0",
+    spotifyLink: "https://open.spotify.com/episode/2kn9gI9hWszQBQTRTYc4g4",
   },
   {
     id: 76,
@@ -358,6 +410,7 @@ export const episodes: Episode[] = [
     date: "2025-04-02",
     description: "Impacto do novo modelo da OpenAI em produtos.",
     youtubeLink: "https://www.youtube.com/watch?v=uPTmRRREKC8",
+    spotifyLink: "https://open.spotify.com/episode/1x3TQ7caYv3ZYRhtMk3xD7",
   },
   {
     id: 77,
@@ -365,6 +418,7 @@ export const episodes: Episode[] = [
     date: "2025-04-08",
     description: "Análise da estratégia de IA do Shopify.",
     youtubeLink: "https://www.youtube.com/watch?v=vfTnOV4vcwo",
+    spotifyLink: "https://open.spotify.com/episode/7HZTXIdcTZr5inDRjep0Fs",
   },
   {
     id: 78,
@@ -372,6 +426,7 @@ export const episodes: Episode[] = [
     date: "2025-04-16",
     description: "Reflexões sobre gestão de tempo e agenda.",
     youtubeLink: "https://www.youtube.com/watch?v=vRHnna2MEjc",
+    spotifyLink: "https://open.spotify.com/episode/2h1E39I6CHzmiBq6ZYBd6U",
   },
   {
     id: 79,
@@ -379,6 +434,7 @@ export const episodes: Episode[] = [
     date: "2025-04-22",
     description: "Desmistificando crenças sobre liderança de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=wrojLos80BE",
+    spotifyLink: "https://open.spotify.com/episode/0C6CakD5ec1e4iyzsSL6Cr",
   },
   {
     id: 80,
@@ -386,6 +442,7 @@ export const episodes: Episode[] = [
     date: "2025-05-07",
     description: "Análise dos planos da Meta para IA e wearables.",
     youtubeLink: "https://www.youtube.com/watch?v=46Q_Z7ZbqDo",
+    spotifyLink: "https://open.spotify.com/episode/3GuZK03dHzNuNc1t04zJD4",
   },
   {
     id: 81,
@@ -393,6 +450,7 @@ export const episodes: Episode[] = [
     date: "2025-05-15",
     description: "Discussão sobre síndrome do impostor em líderes de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=9dB2z3aHq9Y",
+    spotifyLink: "https://open.spotify.com/episode/6GuLV5H8CArUcsnPGOluNM",
   },
   {
     id: 82,
@@ -400,6 +458,7 @@ export const episodes: Episode[] = [
     date: "2025-05-28",
     description: "Cobertura dos principais lançamentos de IA.",
     youtubeLink: "https://www.youtube.com/watch?v=QSPXXi_WPDA",
+    spotifyLink: "https://open.spotify.com/episode/4cGRM1xxaOcJ87kQTvaaeX",
   },
   {
     id: 83,
@@ -407,6 +466,7 @@ export const episodes: Episode[] = [
     date: "2025-06-05",
     description: "Entrevista sobre uso prático de IA no dia a dia.",
     youtubeLink: "https://www.youtube.com/watch?v=sGIrHmJi4c0",
+    spotifyLink: "https://open.spotify.com/episode/4R0K4SVBF6WjJ0UMRyDRxD",
   },
   {
     id: 84,
@@ -414,6 +474,7 @@ export const episodes: Episode[] = [
     date: "2025-06-10",
     description: "Cobertura da WWDC e novo design do iOS.",
     youtubeLink: "https://www.youtube.com/watch?v=1k8K4zvpFso",
+    spotifyLink: "https://open.spotify.com/episode/37LaxmXtg62xPKUa9eSWOa",
   },
   {
     id: 85,
@@ -421,6 +482,7 @@ export const episodes: Episode[] = [
     date: "2025-06-18",
     description: "Discussão sobre resiliência em times de produto.",
     youtubeLink: "https://www.youtube.com/watch?v=K3NQpGUMPbo",
+    spotifyLink: "https://open.spotify.com/episode/5Uzy6LOivDMZGpKNSdUX4x",
   },
   {
     id: 86,
@@ -428,6 +490,7 @@ export const episodes: Episode[] = [
     date: "2025-07-01",
     description: "Impacto da IA nas regras de produto e distribuição.",
     youtubeLink: "https://www.youtube.com/watch?v=JxYOX1poJfQ",
+    spotifyLink: "https://open.spotify.com/episode/1krH7zwtFxEsh0HqCfDEi4",
   },
   {
     id: 87,
@@ -435,6 +498,7 @@ export const episodes: Episode[] = [
     date: "2025-07-10",
     description: "Guia prático para implementar IA em empresas.",
     youtubeLink: "https://www.youtube.com/watch?v=BRQMzR7K5ls",
+    spotifyLink: "https://open.spotify.com/episode/6e6GF8dzSotj40q5c0TkVb",
   },
   {
     id: 88,
@@ -442,6 +506,7 @@ export const episodes: Episode[] = [
     date: "2025-07-23",
     description: "Explorando limites do no-code com IA.",
     youtubeLink: "https://www.youtube.com/watch?v=EjseRRXBSn8",
+    spotifyLink: "https://open.spotify.com/episode/69WosZB4FjJFXqCZjgDnbR",
   },
   {
     id: 89,
@@ -449,6 +514,7 @@ export const episodes: Episode[] = [
     date: "2025-07-30",
     description: "Como usar IA para tomada de decisões.",
     youtubeLink: "https://www.youtube.com/watch?v=zo1NvcK6JjQ",
+    spotifyLink: "https://open.spotify.com/episode/6hWIC5iRTXBNarnxPMEUJi",
   },
   {
     id: 90,
@@ -456,6 +522,7 @@ export const episodes: Episode[] = [
     date: "2025-08-13",
     description: "Análise do ChatGPT-5 e seu impacto.",
     youtubeLink: "https://www.youtube.com/watch?v=TOz17MFL2cY",
+    spotifyLink: "https://open.spotify.com/episode/66zekniqrZoG7p5wvKesg2",
   },
   {
     id: 91,
@@ -463,6 +530,7 @@ export const episodes: Episode[] = [
     date: "2025-08-22",
     description: "Dinâmica entre times de produto e engenharia.",
     youtubeLink: "https://www.youtube.com/watch?v=R5pcMqKC1oo",
+    spotifyLink: "https://open.spotify.com/episode/64rLQMnlbFDreawZ6w2hhx",
   },
   {
     id: 92,
@@ -470,6 +538,7 @@ export const episodes: Episode[] = [
     date: "2025-08-27",
     description: "Reflexões sobre a pressão por IA nas empresas.",
     youtubeLink: "https://www.youtube.com/watch?v=tQRCrTMQvXc",
+    spotifyLink: "https://open.spotify.com/episode/2vAVcn23NwYLZTK66xygWS",
   },
   {
     id: 93,
@@ -477,6 +546,7 @@ export const episodes: Episode[] = [
     date: "2025-09-04",
     description: "Discussão sobre reorganizações empresariais.",
     youtubeLink: "https://www.youtube.com/watch?v=vNoH1U5b_IU",
+    spotifyLink: "https://open.spotify.com/episode/791OHS8VBSpSH6CgooYrw1",
   },
   {
     id: 94,
@@ -490,6 +560,7 @@ export const episodes: Episode[] = [
     date: "2025-09-22",
     description: "Análise do Meta Display e seu potencial.",
     youtubeLink: "https://www.youtube.com/watch?v=g3Y2KXfmAe0",
+    spotifyLink: "https://open.spotify.com/episode/4wtO2V7ukLCY2sY0nMl60l",
   },
   {
     id: 96,
@@ -497,6 +568,7 @@ export const episodes: Episode[] = [
     date: "2025-10-01",
     description: "Cobertura de lançamentos de IA.",
     youtubeLink: "https://www.youtube.com/watch?v=3aG0314I7Z0",
+    spotifyLink: "https://open.spotify.com/episode/52H1og58VbJls4jFjaoxek",
   },
   {
     id: 97,
@@ -504,6 +576,7 @@ export const episodes: Episode[] = [
     date: "2025-10-08",
     description: "Análise de salários e tendências em produto.",
     youtubeLink: "https://www.youtube.com/watch?v=SzQr86tX2S4",
+    spotifyLink: "https://open.spotify.com/episode/38Q5Gdwza192sC7jOhx6VF",
   },
   {
     id: 98,
@@ -511,6 +584,7 @@ export const episodes: Episode[] = [
     date: "2025-11-06",
     description: "Cobertura do Product Leader Summit 2025.",
     youtubeLink: "https://www.youtube.com/watch?v=ZOVFWGfKaTE",
+    spotifyLink: "https://open.spotify.com/episode/6frGgZsE1oEwj7xildcunE",
   },
   {
     id: 99,
@@ -518,6 +592,7 @@ export const episodes: Episode[] = [
     date: "2025-11-21",
     description: "Discussão sobre a sustentabilidade da IA.",
     youtubeLink: "https://www.youtube.com/watch?v=aBnx15YhSKw",
+    spotifyLink: "https://open.spotify.com/episode/6LVL69XcSrPe6aTYdWzHW2",
   },
   {
     id: 100,
@@ -525,6 +600,7 @@ export const episodes: Episode[] = [
     date: "2025-12-10",
     description: "Episódio 100 com retrospectiva e melhores momentos do ano.",
     youtubeLink: "https://www.youtube.com/watch?v=g9DSu1OR0DY",
+    spotifyLink: "https://open.spotify.com/episode/1tRctNfRWoinK92au6wTDV",
   },
   // 2026 Episodes
   {
@@ -533,6 +609,7 @@ export const episodes: Episode[] = [
     date: "2026-01-14",
     description: "Previsões ousadas sobre produto, IA e o mercado tech para 2026.",
     youtubeLink: "https://www.youtube.com/watch?v=ncQTnIBwfgc",
+    spotifyLink: "https://open.spotify.com/episode/1sxyo5Qw73jbm3RrocvNoJ",
   },
   {
     id: 102,
@@ -540,6 +617,7 @@ export const episodes: Episode[] = [
     date: "2026-01-21",
     description: "Discussão sobre Claude Code e o futuro das ferramentas de IA.",
     youtubeLink: "https://www.youtube.com/watch?v=h9oDCEIcSVU",
+    spotifyLink: "https://open.spotify.com/episode/0ex4SB8kINyAvgLebmZpAK",
   },
   {
     id: 103,
@@ -547,5 +625,6 @@ export const episodes: Episode[] = [
     date: "2026-01-28",
     description: "Discussão sobre Product Sense e as ferramentas da semana.",
     youtubeLink: "https://www.youtube.com/watch?v=dt3vQX5isqY",
+    spotifyLink: "https://open.spotify.com/episode/3ISQhy14KTgTyIWURKarW5",
   },
 ];
