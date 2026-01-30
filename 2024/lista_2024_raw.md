@@ -287,7 +287,7 @@
 | 36       | Nana              | Google Maps                              |
 | 36       | Amanda            | Zoom                                     |
 | 36       | Luiz              | TunnelBear                               |
-| 36       | Montoy            | Atlas.ti                                 |
+| 36       | Montoya           | Atlas.ti                                 |
 | 35       | Arthur            | WhatsApp                                 |
 | 35       | Aíquis            | Livelo                                   |
 | 35       | César             | Slack                                    |
@@ -393,7 +393,16 @@
 | 24       | Eduardo           | App do Diário Oficial da União           |
 | 24       | Pilon             | Sem Parar                                |
 | 24       | Anônimo           | Bumble                                   |
-| ---      | ---------------   | -----------------------                  |
-| 23       | Agata Cristina    | Linkedin                                 |
-| 23       | Adriana Barros    | Linkedin (ouvir nome)                    |
+| 23       | Aíquis            | Loom                                     |
+| 23       | Arthur            | Rise Sleep                               |
+| 23       | Régis             | Planta                                   |
+| 23       | Gabi Braga        | ClickBus                                 |
+| 23       | Ágata Cristina    | Google Agenda                            |
+| 23       | Adriana Barros    | Linkedin (ouvir o nome da pessoa)        |
+| 23       | Michele Morais    | Miro                                     |
+| 23       | Pilon             | Chat do Delboni (variante do Delboni)    |
+| 23       | Martin            | Grab                                     |
+| 23       | Bruno             | YNAB                                     |
+| 23       | Montoya           | Samsung Health                           |
+| 23       | Cesar             | Salesforce                               |
 | ---      | ---------------   | -----------------------                  |
