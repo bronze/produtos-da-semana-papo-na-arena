@@ -1,5 +1,5 @@
 | Episódio | Ouvinte           | Produto                                  |
-| -------- | ----------------- | ---------------------------------------- |
+| -------- | ----------------- | ---------------------------------------- | --------------------------- |
 | 64       | Aíquis            | Balatro                                  |
 | 64       | Arthur            | Ray-Ban Meta                             |
 | 64       | Nina              | Drogasil                                 |
@@ -12,7 +12,7 @@
 | 64       | nery              | thefork                                  |
 | 64       | karina            | Kindle                                   |
 | 64       | pilon             | Instacarro                               |
-| 64       | Beiçola           | Lindt                                    |
+| 64       | Fabio Beiço       | Lindt                                    |
 | 64       | Bruna             | GymRats                                  |
 | 64       | Lavin             | Teams/Office                             |
 | 64       | Clovis            | Magie                                    |
@@ -93,7 +93,7 @@
 | 56       | Glauco            | ChatGPT                                  |
 | 56       | Portinho          | Claude                                   |
 | 56       | Leandro           | Omnivore                                 |
-| 56       | Beiçola           | WhatsApp                                 |
+| 56       | Fabio Beiço       | WhatsApp                                 |
 | 56       | Danilera          | Age of Empires Mobile                    |
 | 56       | Mat               | Trela                                    |
 | 56       | Karina            | Training Peaks                           |
@@ -277,7 +277,7 @@
 | 37       | Pilon             | Drink Water (app)                        |
 | 37       | Natasha           | Lady Driver                              |
 | 37       | Danilera          | Brawl Stars                              |
-| 37       | Beiçola           | Classpass                                |
+| 37       | Fabio Beiço       | Classpass                                |
 | 36       | Arthur            | Kindle App (variante do Kindle)          |
 | 36       | Aíquis            | Nintendo Switch                          |
 | 36       | Pilon             | Magie                                    |
@@ -314,7 +314,7 @@
 | 33       | Edu               | MSC for Me                               |
 | 33       | Nina              | Whatsapp                                 |
 | 33       | Cauê              | Capcut                                   |
-| 33       | Beiçola           | Yazio                                    |
+| 33       | Fabio Beiço       | Yazio                                    |
 | 33       | Lucas             | Google Scholar                           |
 | 33       | Pilon             | Maya - ciclo hormonal                    |
 | 32       | Aíquis            | Google Docs                              |
@@ -348,8 +348,17 @@
 | 30       | Glauco            | MFIT Personal                            |
 | 30       | Fábio Beiço       | Yoosee                                   |
 | ---      | ---------------   | -----------------------                  |
+| 29       | Arthur            | ChatGPT                                  |
+| 29       | Henrique          | Instagram                                |
+| 29       | Henrique          | Drive (Portugal)                         |
+| 29       | Henrique          | Polytopia                                | (https://polytopia.io/)     |
+| 29       | Henrique          | Awto                                     | (https://site.awto.com.br/) |
+| 29       | Henrique          | Camera                                   |
+| 29       | Henrique          | Youtube                                  |
+| 29       | Henrique          | I any go                                 | (https://www.ianygo.net/)   |
 | 29       | Henrique          | TikTok                                   |
 | 29       | Luquita           | Fórmula 1                                |
+| ---      | ---------------   | -----------------------                  |
 | 28       | Augusto           | Expo Go                                  |
 | 28       | Alice             | Fley                                     |
 | 28       | Glauco            | Wolf                                     |
