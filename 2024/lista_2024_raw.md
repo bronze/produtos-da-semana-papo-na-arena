@@ -278,10 +278,11 @@
 | 37       | Natasha           | Lady Driver                              |
 | 37       | Danilera          | Brawl Stars                              |
 | 37       | Beiçola           | Classpass                                |
-| ---      | ----------------- | -----------------------                  |
-| 36       | Aíquis            | Google Sheets                            |
-| 36       | Arthur            | Google Slides                            |
-| 36       | Cloves            | Blink                                    |
+| 36       | Arthur            | Kindle App (variante do Kindle)          |
+| 36       | Aíquis            | Nintendo Switch                          |
+| 36       | Pilon             | Magie                                    |
+| 36       | Cloves            | Blinkist                                 |
+| 36       | Danilera          | Surfview                                 |
 | 36       | Nana              | Google Maps                              |
 | 36       | Amanda            | Zoom                                     |
 | 36       | Luiz              | TunnelBear                               |
