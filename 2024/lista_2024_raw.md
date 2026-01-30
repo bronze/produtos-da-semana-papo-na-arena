@@ -1,5 +1,5 @@
 | Episódio | Ouvinte           | Produto                                  |
-| -------- | ----------------- | ---------------------------------------- | --------------------------- |
+| -------- | ----------------- | ---------------------------------------- |
 | 64       | Aíquis            | Balatro                                  |
 | 64       | Arthur            | Ray-Ban Meta                             |
 | 64       | Nina              | Drogasil                                 |
@@ -347,17 +347,16 @@
 | 30       | Pilon             | Quinto Andar                             |
 | 30       | Glauco            | MFIT Personal                            |
 | 30       | Fábio Beiço       | Yoosee                                   |
-| ---      | ---------------   | -----------------------                  |
 | 29       | Arthur            | ChatGPT                                  |
-| 29       | Henrique          | Instagram                                |
-| 29       | Henrique          | Drive (Portugal)                         |
-| 29       | Henrique          | Polytopia                                | (https://polytopia.io/)     |
-| 29       | Henrique          | Awto                                     | (https://site.awto.com.br/) |
-| 29       | Henrique          | Camera                                   |
-| 29       | Henrique          | Youtube                                  |
-| 29       | Henrique          | I any go                                 | (https://www.ianygo.net/)   |
+| 29       | Aíquis            | Instagram                                |
+| 29       | Luiz              | Drive                                    |
+| 29       | Pilon             | Polytopia                                |
+| 29       | Renato Bassi      | Awto                                     |
+| 29       | Fabinho           | Camera                                   |
+| 29       | Andrezinho        | Youtube                                  |
 | 29       | Henrique          | TikTok                                   |
 | 29       | Luquita           | Fórmula 1                                |
+| 29       | Anônimo           | I any go                                 |
 | ---      | ---------------   | -----------------------                  |
 | 28       | Augusto           | Expo Go                                  |
 | 28       | Alice             | Fley                                     |
