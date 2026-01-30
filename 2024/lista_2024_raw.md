@@ -73,7 +73,7 @@
 | 58       | Karina            | 99                                       |
 | 58       | Andrezinho        | Duolingo                                 |
 | 58       | Glauco            | ClassApp (app da creche)                 |
-| 58       | Lukão             | Eventos do Whatsapp                      |
+| 58       | Lukão             | Eventos do WhatsApp                      |
 | 57       | Aíquis            | Google Suite                             |
 | 57       | Arthur            | Apple Intelligence                       |
 | 57       | Boss              | Retool                                   |
@@ -287,10 +287,12 @@
 | 36       | Amanda            | Zoom                                     |
 | 36       | Luiz              | TunnelBear                               |
 | 36       | Montoy            | Atlas.ti                                 |
-| ---      | ----------------- | -----------------------                  |
-| 35       | César             | SL                                       |
-| 35       | Paulo             | Golf                                     |
+| 35       | Arthur            | WhatsApp                                 |
+| 35       | Aíquis            | Livelo                                   |
+| 35       | César             | Slack                                    |
+| 35       | Paulo             | Gov.br                                   |
 | 35       | Glauco            | Zona Azul                                |
+| ---      | ----------------- | -----------------------                  |
 | 34       | Glauco            | Dasa                                     |
 | 34       | Mateus            | United Airlines                          |
 | 34       | Ouvinte anônimo   | Tinder                                   |
