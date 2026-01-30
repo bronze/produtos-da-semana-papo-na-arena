@@ -272,12 +272,21 @@
 | 38       | Neuri             | ChatGPT                                  |
 | 38       | Nat               | TecnofitBox                              |
 | 38       | Lucas             | Swiftkey                                 |
+| 37       | Aíquis            | Google Sheets                            |
+| 37       | Arthur            | Google Slides                            |
+| 37       | Pilon             | Drink Water (app)                        |
+| 37       | Natasha           | Lady Driver                              |
+| 37       | Danilera          | Brawl Stars                              |
+| 37       | Beiçola           | Classpass                                |
 | ---      | ----------------- | -----------------------                  |
+| 36       | Aíquis            | Google Sheets                            |
+| 36       | Arthur            | Google Slides                            |
 | 36       | Cloves            | Blink                                    |
 | 36       | Nana              | Google Maps                              |
 | 36       | Amanda            | Zoom                                     |
 | 36       | Luiz              | TunnelBear                               |
 | 36       | Montoy            | Atlas.ti                                 |
+| ---      | ----------------- | -----------------------                  |
 | 35       | César             | SL                                       |
 | 35       | Paulo             | Golf                                     |
 | 35       | Glauco            | Zona Azul                                |
