@@ -317,16 +317,22 @@
 | 33       | Beiçola           | Yazio                                    |
 | 33       | Lucas             | Google Scholar                           |
 | 33       | Pilon             | Maya - ciclo hormonal                    |
-| ---      | ----------------- | -----------------------                  |
+| 32       | Aíquis            | Google Docs                              |
+| 32       | Arthur            | Canva                                    |
+| 32       | Boss              | Contrações                               |
+| 32       | Nana              | Maps                                     |
 | 32       | Pri Chagas        | Todoist                                  |
 | 32       | Wilson de Moraes  | Total Pass                               |
 | 32       | Miriam            | Strava                                   |
 | 32       | Paulo             | Splitwise                                |
 | 32       | Andrezão          | SkyView                                  |
-| 32       | Lucas Mattos      | Esteto                                   |
+| 32       | Lucas Mattos      | Steto                                    |
 | 32       | Pilon             | Mercado Livre                            |
 | 32       | Sala              | 1Password                                |
-| 32       | Ana Romeu         | ZenChef                                  |
+| 32       | Miriam            | Steto                                    |
+| 32       | Marmerola         | Trela                                    |
+| 32       | Ana Romeu         | Zenchef                                  |
+| ---      | ---------------   | -----------------------                  |
 | 30       | Dezão             | Before Waste                             |
 | 30       | Nana              | Splitwise                                |
 | 30       | Pilon             | Quinto Andar                             |
