@@ -332,6 +332,13 @@
 | 32       | Miriam            | Steto                                    |
 | 32       | Marmerola         | Trela                                    |
 | 32       | Ana Romeu         | Zenchef                                  |
+| 31       | Aíquis            | Suno AI                                  |
+| 31       | Arthur            | Waze                                     |
+| 31       | Renato            | FoodtoSave                               |
+| 31       | Nana              | Gymrats                                  |
+| 31       | Pilon             | Duolingo                                 |
+| 31       | Luquita           | Rappi                                    |
+| 31       | Andrezinho        | Airalo                                   |
 | ---      | ---------------   | -----------------------                  |
 | 30       | Dezão             | Before Waste                             |
 | 30       | Nana              | Splitwise                                |
