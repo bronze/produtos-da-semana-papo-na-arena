@@ -339,11 +339,15 @@
 | 31       | Pilon             | Duolingo                                 |
 | 31       | Luquita           | Rappi                                    |
 | 31       | Andrezinho        | Airalo                                   |
-| ---      | ---------------   | -----------------------                  |
-| 30       | Dezão             | Before Waste                             |
+| 30       | Aíquis            | Twitch                                   |
+| 30       | Arthur            | Pocket                                   |
+| 30       | Dezão             | B4waste                                  |
 | 30       | Nana              | Splitwise                                |
+| 30       | Mateus            | Zillow                                   |
 | 30       | Pilon             | Quinto Andar                             |
 | 30       | Glauco            | MFIT Personal                            |
+| 30       | Fábio Beiço       | Yoosee                                   |
+| ---      | ---------------   | -----------------------                  |
 | 29       | Henrique          | TikTok                                   |
 | 29       | Luquita           | Fórmula 1                                |
 | 28       | Augusto           | Expo Go                                  |
