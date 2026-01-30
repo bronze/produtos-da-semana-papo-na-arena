@@ -303,13 +303,21 @@
 | 34       | Glauco            | Dasa                                     |
 | 34       | Mateus            | United Airlines                          |
 | 34       | Anônimo           | Tinder                                   |
-| ---      | ----------------- | -----------------------                  |
+| 33       | Arthur            | Nike Alphafly                            |
+| 33       | Aíquis            | MAX                                      |
+| 33       | Andrezão          | Delta - emulador Nintendo no iOS         |
+| 33       | Paulo             | Raindrop                                 |
+| 33       | Miriam            | Chromecast                               |
+| 33       | Karina            | Asana                                    |
 | 33       | Danilera          | Garmin Connect                           |
+| 33       | Teles             | Garmin Connect                           |
 | 33       | Edu               | MSC for Me                               |
-| 33       | Mozão             | WhatsApp                                 |
-| 33       | Bigodin           | CapCut                                   |
-| 33       | Beola             | Yazio                                    |
+| 33       | Nina              | Whatsapp                                 |
+| 33       | Cauê              | Capcut                                   |
+| 33       | Beiçola           | Yazio                                    |
 | 33       | Lucas             | Google Scholar                           |
+| 33       | Pilon             | Maya - ciclo hormonal                    |
+| ---      | ----------------- | -----------------------                  |
 | 32       | Pri Chagas        | Todoist                                  |
 | 32       | Wilson de Moraes  | Total Pass                               |
 | 32       | Miriam            | Strava                                   |
