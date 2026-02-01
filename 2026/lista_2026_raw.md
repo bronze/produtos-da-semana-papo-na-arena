@@ -15,7 +15,7 @@
 | 103      | Rodrigo Frumento  | ChatGPT                                                     |
 | 103      | Rodrigo Frumento  | Jira                                                        |
 | 103      | Rodrigo Frumento  | ChatPRD                                                     |
-| 103      | Senra             | Power Automate                                              |
+| 103      | Tammy Senra       | Power Automate                                              |
 | 103      | Carlos Bronze     | Cursor                                                      |
 | 103      | Carlos Bronze     | Lovable                                                     |
 | 103      | Cristiano         | App do FGC                                                  |
