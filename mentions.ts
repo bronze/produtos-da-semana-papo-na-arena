@@ -1396,7 +1396,12 @@ export const products: Product[] = [
 // People (contributors/hosts)
 export const people: Person[] = [
   // Core hosts/contributors
-  { id: "arthur", name: "Arthur", linkedinUrl: "https://www.linkedin.com/in/arthurdecastroaraujo/", avatarUrl: arthurAvatar },
+  {
+    id: "arthur",
+    name: "Arthur",
+    linkedinUrl: "https://www.linkedin.com/in/arthurdecastroaraujo/",
+    avatarUrl: arthurAvatar,
+  },
   { id: "aiquis", name: "Aíquis", linkedinUrl: "https://www.linkedin.com/in/aiquis/", avatarUrl: aquisAvatar },
   { id: "daniel-gonzalez", name: "Daniel Gonzalez" },
   { id: "thiago-simao", name: "Thiago Simão" },
@@ -1554,7 +1559,6 @@ export const people: Person[] = [
   { id: "thiago-valinho", name: "Thiago Valinho" },
   { id: "vanessa-silva", name: "Vanessa Silva" },
   { id: "rodrigo-frumento", name: "Rodrigo Frumento" },
-  { id: "senra", name: "Senra" },
   { id: "cristiano", name: "Cristiano" },
   { id: "marcos-roman", name: "Marcos Roman" },
   { id: "paula-paradellas", name: "Paula Paradellas" },
@@ -2675,7 +2679,7 @@ export const mentions: Mention[] = [
   { id: "m103-13", episodeId: 103, personId: "rodrigo-frumento", productId: "chatgpt" },
   { id: "m103-14", episodeId: 103, personId: "rodrigo-frumento", productId: "jira" },
   { id: "m103-15", episodeId: 103, personId: "rodrigo-frumento", productId: "chatprd" },
-  { id: "m103-16", episodeId: 103, personId: "senra", productId: "power-automate" },
+  { id: "m103-16", episodeId: 103, personId: "tammy-senra", productId: "power-automate" },
   { id: "m103-17", episodeId: 103, personId: "carlos-bronze", productId: "cursor" },
   { id: "m103-18", episodeId: 103, personId: "carlos-bronze", productId: "lovable" },
   { id: "m103-19", episodeId: 103, personId: "cristiano", productId: "app-fgc" },
