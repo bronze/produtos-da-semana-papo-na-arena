@@ -45,7 +45,7 @@
 | 60       | Aíquis            | Samsung Smart Switch                     |
 | 60       | Danilo            | Skoob                                    |
 | 60       | Lukão             | BuyTicket                                |
-| 60       | Lucas             | n8n                                      |
+| 60       | Lucas             | N8n                                      |
 | 60       | Pilon             | Kindle                                   |
 | 60       | Thiago            | Bionic Go                                |
 | 60       | Boss              | OneSchema                                |
@@ -360,7 +360,7 @@
 | 29       | Anônimo           | I any go                                 |
 | 28       | Aíquis            | Corsair HS80 Wireless                    |
 | 28       | Arthur            | Daylio                                   |
-| 28       | Lucas Matos       | SwingVision                              |
+| 28       | Lucas Mattos      | SwingVision                              |
 | 28       | Eduardo Augusto   | ExpoGo                                   |
 | 28       | Alice             | Feedly                                   |
 | 28       | Glauco            | Wolfram                                  |

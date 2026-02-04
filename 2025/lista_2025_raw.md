@@ -15,7 +15,7 @@
 | 99       | Vinicius Maricato  | NotebookLM                                                  |
 | 99       | Huxley             | Cursor                                                      |
 | 99       | Filipe Barros      | Claude                                                      |
-| 99       | Marina Moreira     | n8n + Vertex API testando automações de vídeo com o Veo 3.1 |
+| 99       | Marina Moreira     | N8n + Vertex API testando automações de vídeo com o Veo 3.1 |
 | 98       | Aíquis             | Warp                                                        |
 | 98       | Arthur             | picnic                                                      |
 | 98       | fabin              | pokemon legends                                             |
@@ -108,7 +108,7 @@
 | 88       | Matt Lopes         | Polycam - Scanner 3D                                        |
 | 88       | Portinho           | Manus                                                       |
 | 87       | Aíquis             | Anker Powerconf C200                                        |
-| 87       | Arthur             | n8n                                                         |
+| 87       | Arthur             | N8n                                                         |
 | 87       | Brian              | [Moises.AI](http://Moises.AI)                               |
 | 87       | Nina               | Tiktok                                                      |
 | 87       | Izabela            | Manus                                                       |
@@ -203,7 +203,7 @@
 | 81       | Wilson             | Canva                                                       |
 | 81       | Brian              | Adobe Lightroom                                             |
 | 81       | Andrezao           | Dominguinho                                                 |
-| 81       | Vinicius           | n8n                                                         |
+| 81       | Vinicius           | N8n                                                         |
 | 81       | Glauco             | UK ETA                                                      |
 | 81       | Lucas              | Bluma                                                       |
 | 81       | Pilon              | v0                                                          |
@@ -271,7 +271,7 @@
 | 74       | Aiquis             | Logitech MX Vertical                                        |
 | 74       | Alexandre          | Lovable                                                     |
 | 74       | Portinho           | Perplexity                                                  |
-| 74       | Hamu               | n8n                                                         |
+| 74       | Hamu               | N8n                                                         |
 | 74       | Lukão              | RunStory                                                    |
 | 74       | Marina Fernandes   | Elephan                                                     |
 | 74       | Pilon              | Bluelink                                                    |
@@ -372,7 +372,7 @@
 | 65       | Amanda Farias      | Gym Rats                                                    |
 | 65       | Efrem              | Napkin                                                      |
 | 65       | Diego Silva        | TL;DV                                                       |
-| 65       | Lucas Furtado      | n8n                                                         |
+| 65       | Lucas Furtado      | N8n                                                         |
 | 65       | Bruna Fragelli     | Wanderlog                                                   |
 | 65       | Lukao              | Loteria                                                     |
 | 65       | Nery               | NotebookLM                                                  |

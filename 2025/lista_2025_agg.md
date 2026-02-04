@@ -11,7 +11,7 @@
 | Notion                                                      | 5        |
 | Cursor                                                      | 4        |
 | Strava                                                      | 4        |
-| n8n                                                         | 4        |
+| N8n                                                         | 4        |
 | Gemini                                                      | 4        |
 | IRPF25                                                      | 4        |
 | DeepSeek                                                    | 4        |
@@ -56,7 +56,7 @@
 | Ollama                                                      | 1        |
 | Glean                                                       | 1        |
 | Google AI Studio                                            | 1        |
-| n8n + Vertex API testando automações de vídeo com o Veo 3.1 | 1        |
+| N8n + Vertex API testando automações de vídeo com o Veo 3.1 | 1        |
 | Warp                                                        | 1        |
 | pokemon legends                                             | 1        |
 | Ghost                                                       | 1        |
