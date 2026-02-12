@@ -1,5 +1,39 @@
 | Episódio | Ouvinte              | Produto                                                     |
 | -------- | -------------------- | ----------------------------------------------------------- |
+| 105      | Arthur               | Cursor                                                      |
+| 105      | Arthur               | Claude Code                                                 |
+| 105      | Aíquis               | Cursor                                                      |
+| 105      | Aíquis               | Claude Code                                                 |
+| 105      | Bia Morales          | Cursor                                                      |
+| 105      | Aline                | ChatGPT                                                     |
+| 105      | Aline                | Perplexity                                                  |
+| 105      | Aline                | Lessie.ai                                                   |
+| 105      | Aline                | GetVamos                                                    |
+| 105      | Adriana Rosário      | Duolingo                                                    |
+| 105      | Adriana Rosário      | Lovable                                                     |
+| 105      | Fernando Lenine      | Google AI Studio                                            |
+| 105      | Carlos Bronze        | Claude Code                                                 |
+| 105      | Carorile Cardoso     | Gemini                                                      |
+| 105      | Amanda Couto         | Gemini                                                      |
+| 105      | Amanda Couto         | Dolce Gusto                                                 |
+| 105      | Danilo Penteado      | Cursor                                                      |
+| 105      | Marcos Lavin         | ChatGPT                                                     |
+| 105      | Marcos Lavin         | Notion                                                      |
+| 105      | Marcos Lavin         | YouTube                                                     |
+| 105      | Marcos Lavin         | Apple Fitness                                               |
+| 105      | Cauê                 | GymRats                                                     |
+| 105      | Iago Maciel          | Cursor                                                      |
+| 105      | Iago Maciel          | Claude Code                                                 |
+| 105      | Tammy Senra          | Spotify                                                     |
+| 105      | Beatriz Fazolo       | Duolingo                                                    |
+| 105      | Patricia Zago        | ChatGPT                                                     |
+| 105      | Patricia Zago        | Gamma                                                       |
+| 105      | Regiane Buny         | Wise                                                        |
+| 105      | Regiane Buny         | ChatGPT                                                     |
+| 105      | Regiane Buny         | DigiPix                                                     |
+| 105      | Murilo Siqueira      | PostHog                                                     |
+| 105      | José Neto            | Caneta                                                      |
+| 105      | José Neto            | Caderno                                                     |
 | 104      | Aíquis               | Samsung Health                                              |
 | 104      | Arthur               | Ray-Ban Meta                                                |
 | 104      | Marcos Masuchi       | N8n                                                         |
