@@ -5,10 +5,10 @@
 | 105      | Aíquis               | Cursor                                                      |
 | 105      | Aíquis               | Claude Code                                                 |
 | 105      | Bia Morales          | Cursor                                                      |
-| 105      | Aline                | ChatGPT                                                     |
-| 105      | Aline                | Perplexity                                                  |
-| 105      | Aline                | Lessie.ai                                                   |
-| 105      | Aline                | GetVamos                                                    |
+| 105      | Aline Amorim         | ChatGPT                                                     |
+| 105      | Aline Amorim         | Perplexity                                                  |
+| 105      | Aline Amorim         | Lessie.ai                                                   |
+| 105      | Aline Amorim         | GetVamos                                                    |
 | 105      | Adriana Rosário      | Duolingo                                                    |
 | 105      | Adriana Rosário      | Lovable                                                     |
 | 105      | Fernando Lenine      | Google AI Studio                                            |
