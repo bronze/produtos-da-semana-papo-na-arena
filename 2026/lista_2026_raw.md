@@ -13,7 +13,7 @@
 | 105      | Adriana Rosário      | Lovable                                                     |
 | 105      | Fernando Lenine      | Google AI Studio                                            |
 | 105      | Carlos Bronze        | Claude Code                                                 |
-| 105      | Carorile Cardoso     | Gemini                                                      |
+| 105      | Caroline Cardoso     | Gemini                                                      |
 | 105      | Amanda Couto         | Gemini                                                      |
 | 105      | Amanda Couto         | Dolce Gusto                                                 |
 | 105      | Danilo Penteado      | Cursor                                                      |
