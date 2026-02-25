@@ -4,7 +4,7 @@
 | NotebookLM                                                  | 9        |
 | Duolingo                                                    | 8        |
 | Comet Perplexity                                            | 8        |
-| Manus                                                       | 7        |
+| Manus AI                                                    | 7        |
 | Zapier                                                      | 6        |
 | Claude                                                      | 5        |
 | Lovable                                                     | 5        |

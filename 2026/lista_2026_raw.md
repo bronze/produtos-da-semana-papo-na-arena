@@ -1,5 +1,36 @@
 | Episódio | Ouvinte              | Produto                                                     |
 | -------- | -------------------- | ----------------------------------------------------------- |
+| 106      | Efrem                | Copy + Paste do google docs                                 |
+| 106      | Efrem                | Voice Recorder do Motorola                                  |
+| 106      | Arthur               | Replit                                                      |
+| 106      | Aíquis               | Chess.com                                                   |
+| 106      | Carlos Bronze        | Claude                                                      |
+| 106      | Carlos Bronze        | Claude Code                                                 |
+| 106      | Paulo de Almeida     | Gemini code assistant                                       |
+| 106      | Paulo de Almeida     | VSCode                                                      |
+| 106      | Erika                | NotebookLM                                                  |
+| 106      | Erika                | Chatgpt                                                     |
+| 106      | Erika                | Beats                                                       |
+| 106      | Vinícius Santos      | NotebookLM                                                  |
+| 106      | Vinícius Santos      | Claude                                                      |
+| 106      | Danilo Franco        | Nanobot                                                     |
+| 106      | Cristiano            | Antigravity                                                 |
+| 106      | Marlon               | Gemini                                                      |
+| 106      | Marlon               | NotebookLM                                                  |
+| 106      | Beatriz Morales      | Cursor                                                      |
+| 106      | Beatriz Morales      | Snowflake                                                   |
+| 106      | Walmir               | Fone de ouvido Soundcore Sport X20                          |
+| 106      | Peixoto              | Lovable                                                     |
+| 106      | Peixoto              | Manus AI                                                    |
+| 106      | Peixoto              | Replit                                                      |
+| 106      | Rafael ferreira      | Replit                                                      |
+| 106      | Thays Bueno          | Cursor                                                      |
+| 106      | Nessa Carla          | GymRats                                                     |
+| 106      | Adriano Pereira      | Gemini                                                      |
+| 106      | Adriano Pereira      | Vercel                                                      |
+| 106      | Gustavo Cardoso      | WhatsApp                                                    |
+| 106      | Yuri                 | Life360                                                     |
+| 106      | Ana Carolina         | Air Fryer                                                   |
 | 105      | Arthur               | Cursor                                                      |
 | 105      | Arthur               | Claude Code                                                 |
 | 105      | Aíquis               | Cursor                                                      |

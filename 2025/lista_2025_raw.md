@@ -87,7 +87,7 @@
 | 90       | Amilker            | Kiwi                                                        |
 | 90       | Bruna Fragelli     | Viki                                                        |
 | 90       | Camila Jordana     | Relay                                                       |
-| 90       | Portinho           | Manus                                                       |
+| 90       | Portinho           | Manus AI                                                    |
 | 90       | Danilera           | Shopper                                                     |
 | 90       | Lukão              | Pexels                                                      |
 | 89       | Aíquis             | Anker Soundcore Q30                                         |
@@ -106,12 +106,12 @@
 | 88       | Nery               | Brasil Bitcoin                                              |
 | 88       | Danilera           | Be My Eyes                                                  |
 | 88       | Matt Lopes         | Polycam - Scanner 3D                                        |
-| 88       | Portinho           | Manus                                                       |
+| 88       | Portinho           | Manus AI                                                    |
 | 87       | Aíquis             | Anker Powerconf C200                                        |
 | 87       | Arthur             | N8n                                                         |
 | 87       | Brian              | [Moises.AI](http://Moises.AI)                               |
 | 87       | Nina               | Tiktok                                                      |
-| 87       | Izabela            | Manus                                                       |
+| 87       | Izabela            | Manus AI                                                    |
 | 87       | Andrezao           | BuyTicket                                                   |
 | 87       | Danilera           | Hotmart                                                     |
 | 87       | Mat                | MFIT personal                                               |

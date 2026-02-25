@@ -336,7 +336,7 @@
 | 31       | Aíquis            | Suno AI                                  |
 | 31       | Arthur            | Waze                                     |
 | 31       | Renato            | FoodtoSave                               |
-| 31       | Nana              | Gymrats                                  |
+| 31       | Nana              | GymRats                                  |
 | 31       | Pilon             | Duolingo                                 |
 | 31       | Luquita           | Rappi                                    |
 | 31       | Andrezinho        | Airalo                                   |
