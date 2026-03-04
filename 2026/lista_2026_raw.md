@@ -1,5 +1,44 @@
 | Episódio | Ouvinte              | Produto                                                     |
 | -------- | -------------------- | ----------------------------------------------------------- |
+| 107      | Aíquis               | Dwarkesh Podcast                                            |
+| 107      | Aíquis               | Colossus.com                                                |
+| 107      | Arthur               | Centene                                                     |
+| 107      | Adriano Pereira      | Genspark                                                    |
+| 107      | Carlos Bronze        | Claude Code                                                 |
+| 107      | Carlos Bronze        | Replit                                                      |
+| 107      | Izabela Oliveira     | Cursor                                                      |
+| 107      | Fernando Lenine      | Claude Code                                                 |
+| 107      | Fernando Lenine      | Google AI Studio                                            |
+| 107      | Caiman               | Claude                                                      |
+| 107      | Bruno Agostinho      | ChatGPT Go                                                  |
+| 107      | Erika Oliveira       | Gemini                                                      |
+| 107      | Erika Oliveira       | ChatGPT                                                     |
+| 107      | Erika Oliveira       | Claude                                                      |
+| 107      | Erika Oliveira       | Beats                                                       |
+| 107      | Nelson de Moura      | Claude Code                                                 |
+| 107      | Nelson de Moura      | GSD meta-prompt                                             |
+| 107      | Thays Bueno          | Cursor                                                      |
+| 107      | Priscila Chagas      | NotebookLM                                                  |
+| 107      | Rafael Ferreira      | Figma Make                                                  |
+| 107      | André Santos         | WhatsApp                                                    |
+| 107      | Lucas Bittencourt    | Claude Code                                                 |
+| 107      | Lucas Bittencourt    | Airfryer                                                    |
+| 107      | Renata de Lima       | Glean AI                                                    |
+| 107      | Juliana Volotão      | App da Bacio di Latte                                       |
+| 107      | Ben Alves            | Lovable                                                     |
+| 107      | Alexandre Pereira    | Claude Code                                                 |
+| 107      | Agata Cristina       | Shopee                                                      |
+| 107      | Jessica Luz          | Claude Code                                                 |
+| 107      | Jessica Luz          | Claude Cowork                                               |
+| 107      | Ianka Coelho         | Figma Make                                                  |
+| 107      | Wilson Morais        | Claude                                                      |
+| 107      | Bruno Correa         | Claude Code                                                 |
+| 107      | Carol Cardoso        | Gemini                                                      |
+| 107      | Aline Albertoni      | Spotify                                                     |
+| 107      | Rafael Valente       | Granola                                                     |
+| 107      | Henrique             | Cursor                                                      |
+| 107      | Huxley               | Cursor                                                      |
+| 107      | Iago                 | Lovable                                                     |
 | 106      | Efrem                | Copy + Paste do google docs                                 |
 | 106      | Efrem                | Voice Recorder do Motorola                                  |
 | 106      | Arthur               | Replit                                                      |
