@@ -47,9 +47,9 @@
 | 106      | Carlos Bronze        | Claude Code                                                 |
 | 106      | Paulo de Almeida     | Gemini code assistant                                       |
 | 106      | Paulo de Almeida     | VSCode                                                      |
-| 106      | Erika                | NotebookLM                                                  |
-| 106      | Erika                | Chatgpt                                                     |
-| 106      | Erika                | Beats                                                       |
+| 106      | Erika Oliveira       | NotebookLM                                                  |
+| 106      | Erika Oliveira       | Chatgpt                                                     |
+| 106      | Erika Oliveira       | Beats                                                       |
 | 106      | Vinícius Santos      | NotebookLM                                                  |
 | 106      | Vinícius Santos      | Claude                                                      |
 | 106      | Danilo Franco        | Nanobot                                                     |

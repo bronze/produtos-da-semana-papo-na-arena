@@ -150,7 +150,7 @@
 | 49       | Ágata Cristina    | MAX                                      |
 | 49       | Gabriel           | Aiqfome                                  |
 | 49       | Alice Portugal    | Apple Watch                              |
-| 49       | Pri Chagas        | Adidas Running                           |
+| 49       | Priscila Chagas   | Adidas Running                           |
 | 49       | Bob               | Deezer                                   |
 | 49       | Cauê              | Sketchbook                               |
 | 49       | Karina            | Linkedin                                 |
@@ -176,7 +176,7 @@
 | 48       | Karina            | Mercado Livre                            |
 | 48       | Cauê              | Reserva.Ink                              |
 | 48       | Alana             | Revolut                                  |
-| 48       | Pri Chagas        | Meu Dinheiro Web                         |
+| 48       | Priscila Chagas   | Meu Dinheiro Web                         |
 | 48       | Lucas             | Musixmatch                               |
 | 48       | Cloves            | Bandcamp                                 |
 | 47       | Aíquis            | Joker Card                               |
@@ -188,7 +188,7 @@
 | 47       | Pedro Moreno      | Microsoft Teams                          |
 | 47       | Alana             | Khan Academy                             |
 | 47       | Thiago Oliveira   | Cafu                                     |
-| 47       | Pri Chagas        | TL;DV                                    |
+| 47       | Priscila Chagas   | TL;DV                                    |
 | 47       | Dani              | Desrotulando                             |
 | 47       | Glauco            | WeChat                                   |
 | 47       | Marina Fernandes  | PowerBeats Pro                           |
@@ -322,8 +322,8 @@
 | 32       | Arthur            | Canva                                    |
 | 32       | Boss              | Contrações                               |
 | 32       | Nana              | Maps                                     |
-| 32       | Pri Chagas        | Todoist                                  |
-| 32       | Wilson de Moraes  | Total Pass                               |
+| 32       | Priscila Chagas   | Todoist                                  |
+| 32       | Wilson Morais     | Total Pass                               |
 | 32       | Miriam            | Strava                                   |
 | 32       | Paulo             | Splitwise                                |
 | 32       | Andrezão          | SkyView                                  |

@@ -200,7 +200,7 @@
 | 81       | Aíquis             | Moonlight                                                   |
 | 81       | Arthur             | Whispr Flow                                                 |
 | 81       | Camila Jordana     | Teams                                                       |
-| 81       | Wilson             | Canva                                                       |
+| 81       | Wilson Morais      | Canva                                                       |
 | 81       | Brian              | Adobe Lightroom                                             |
 | 81       | Andrezao           | Dominguinho                                                 |
 | 81       | Vinicius           | N8n                                                         |
@@ -238,7 +238,7 @@
 | 78       | Glauco             | Wellhub                                                     |
 | 78       | Nina               | Uno                                                         |
 | 78       | Pilon              | BBlend                                                      |
-| 78       | Wilson             | Strava                                                      |
+| 78       | Wilson Morais      | Strava                                                      |
 | 78       | Lucas              | PaGol                                                       |
 | 78       | Iago               | MindStudio                                                  |
 | 77       | Aíquis             | Skyscanner                                                  |
@@ -249,7 +249,7 @@
 | 77       | Thais              | Duolingo                                                    |
 | 77       | Fabio Beiço        | IRPF2025                                                    |
 | 77       | Caue               | Smart Things Samsung                                        |
-| 77       | Wilson Jr          | Training Peaks                                              |
+| 77       | Wilson Morais      | Training Peaks                                              |
 | 76       | Arthur             | Sitly                                                       |
 | 76       | Aíquis             | ChatGPT - novo modelo de imagens                            |
 | 76       | Danilera           | ChatGPT - novo modelo de imagens                            |
@@ -359,7 +359,7 @@
 | 66       | Aiquis             | AppleTV+                                                    |
 | 66       | Marcos Lavin       | Fitness+                                                    |
 | 66       | Juliana            | Yazio                                                       |
-| 66       | Pri Chagas         | ChatGPT                                                     |
+| 66       | Priscila Chagas    | ChatGPT                                                     |
 | 66       | Leandro Coelho     | Streaks                                                     |
 | 66       | Brian              | Duolingo                                                    |
 | 66       | Danilera           | Parafuzo                                                    |
