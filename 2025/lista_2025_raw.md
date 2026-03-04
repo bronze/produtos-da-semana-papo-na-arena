@@ -138,7 +138,7 @@
 | 85       | Aíquis             | NotebookLM                                                  |
 | 85       | Arthur             | Aquecedor portátil Wap Air Heat Ceramic elétrico            |
 | 85       | Hamu               | Cursor                                                      |
-| 85       | Iago               | Cursor                                                      |
+| 85       | Hiago              | Cursor                                                      |
 | 85       | Pilon              | v0                                                          |
 | 85       | Marina             | Claude Opus 4                                               |
 | 85       | Cloves             | Dia                                                         |
@@ -240,7 +240,7 @@
 | 78       | Pilon              | BBlend                                                      |
 | 78       | Wilson Morais      | Strava                                                      |
 | 78       | Lucas              | PaGol                                                       |
-| 78       | Iago               | MindStudio                                                  |
+| 78       | Hiago              | MindStudio                                                  |
 | 77       | Aíquis             | Skyscanner                                                  |
 | 77       | Arthur             | Manus AI                                                    |
 | 77       | Peixoto            | Manus AI                                                    |
@@ -326,7 +326,7 @@
 | 69       | Bia Saito          | Duolingo                                                    |
 | 69       | Bob                | Deepseek                                                    |
 | 69       | Larissa Souza      | Skoob                                                       |
-| 69       | Izabela Oliveira   | Tricount                                                    |
+| 69       | Isabela Oliveira   | Tricount                                                    |
 | 69       | Yasmin             | Notion                                                      |
 | 69       | Glauco             | Waze                                                        |
 | 69       |                    | Carteira Digital de Trânsito                                |

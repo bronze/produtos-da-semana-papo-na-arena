@@ -6,9 +6,9 @@
 | 107      | Adriano Pereira      | Genspark                                                    |
 | 107      | Carlos Bronze        | Claude Code                                                 |
 | 107      | Carlos Bronze        | Replit                                                      |
-| 107      | Izabela Oliveira     | Cursor                                                      |
-| 107      | Fernando Lenine      | Claude Code                                                 |
-| 107      | Fernando Lenine      | Google AI Studio                                            |
+| 107      | Isabela Oliveira     | Cursor                                                      |
+| 107      | Fernando Lenini      | Claude Code                                                 |
+| 107      | Fernando Lenini      | Google AI Studio                                            |
 | 107      | Caiman               | Claude                                                      |
 | 107      | Bruno Agostinho      | ChatGPT Go                                                  |
 | 107      | Erika Oliveira       | Gemini                                                      |
@@ -38,7 +38,7 @@
 | 107      | Rafael Valente       | Granola                                                     |
 | 107      | Henrique             | Cursor                                                      |
 | 107      | Huxley               | Cursor                                                      |
-| 107      | Iago                 | Lovable                                                     |
+| 107      | Hiago                | Lovable                                                     |
 | 106      | Efrem                | Copy + Paste do google docs                                 |
 | 106      | Efrem                | Voice Recorder do Motorola                                  |
 | 106      | Arthur               | Replit                                                      |
@@ -81,7 +81,7 @@
 | 105      | Aline Amorim         | GetVamos                                                    |
 | 105      | Adriana Rosário      | Duolingo                                                    |
 | 105      | Adriana Rosário      | Lovable                                                     |
-| 105      | Fernando Lenine      | Google AI Studio                                            |
+| 105      | Fernando Lenini      | Google AI Studio                                            |
 | 105      | Carlos Bronze        | Claude Code                                                 |
 | 105      | Carol Cardoso        | Gemini                                                      |
 | 105      | Amanda Couto         | Gemini                                                      |
