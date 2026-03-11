@@ -1,5 +1,60 @@
 | Episódio | Ouvinte              | Produto                                                     |
 | -------- | -------------------- | ----------------------------------------------------------- |
+| 108      | Arthur               | Apple Watch (customização da home)                          |
+| 108      | Aíquis               | Claude Code                                                 |
+| 108      | Joca                 | ElevenLabs                                                  |
+| 108      | Joca                 | Google Flow                                                 |
+| 108      | Joca                 | Suno                                                        |
+| 108      | Alexandre Pereira    | Claude Code                                                 |
+| 108      | Wilson Moraes        | Claude Code                                                 |
+| 108      | Jonathan Nogueira    | Claude Code                                                 |
+| 108      | Fernando Sanches     | Claude Code                                                 |
+| 108      | Beatriz Morales      | Claude Code                                                 |
+| 108      | Arthur Guimarães     | Claude Code                                                 |
+| 108      | Pedro Macedo         | Claude Code                                                 |
+| 108      | Felipe Couto         | Claude Code                                                 |
+| 108      | Victor Alves         | Claude Code                                                 |
+| 108      | Larissa Araújo       | Claude Code                                                 |
+| 108      | Jazz Garbin          | Claude Code                                                 |
+| 108      | Ricardo Infante      | Claude Code                                                 |
+| 108      | Wooksley             | Replit                                                      |
+| 108      | Carol Pilon          | Replit                                                      |
+| 108      | Lucas Matos          | Replit                                                      |
+| 108      | Carol Cardoso        | Replit                                                      |
+| 108      | Nina                 | Replit                                                      |
+| 108      | Rafael Ferreira      | Perplexity                                                  |
+| 108      | Gabriel Marçom       | Perplexity                                                  |
+| 108      | Eduardo Porto        | AntiGravity                                                 |
+| 108      | Eduardo Porto        | Obsidian                                                    |
+| 108      | Paulo de Almeida     | Anti-Gravity                                                |
+| 108      | Julia Patrocini      | ChatGPT                                                     |
+| 108      | Lara Parodi          | ChatGPT                                                     |
+| 108      | Camila Meneguet      | Google Maps                                                 |
+| 108      | Vanessa Cardoso      | Google Maps                                                 |
+| 108      | Vanessa Cardoso      | TripAdvisor                                                 |
+| 108      | Tereza Faustino      | Wanderlog                                                   |
+| 108      | Ariel                | Sofia By Layers                                             |
+| 108      | Renata Dilima        | Miro                                                        |
+| 108      | Rafael Valente       | Opal (Focus Company)                                        |
+| 108      | Henrique Bila        | V0                                                          |
+| 108      | Henrique Bila        | Cursor                                                      |
+| 108      | Rodrigo Menali       | Hotmart                                                     |
+| 108      | Jaqueline            | WhatsApp                                                    |
+| 108      | Glauco Moraes        | Codex                                                       |
+| 108      | Laíne Moraes         | Skoob                                                       |
+| 108      | Laíne Moraes         | Twitter                                                     |
+| 108      | Cintia Ribeiro       | Skeelo                                                      |
+| 108      | Cintia Ribeiro       | Audible                                                     |
+| 108      | Valmir               | Chess.com                                                   |
+| 108      | Valmir               | Claude Code                                                 |
+| 108      | Isabela Rubinich     | Oura Ring                                                   |
+| 108      | Ana Lu               | Shopee                                                      |
+| 108      | Karina Menta         | iFood                                                       |
+| 108      | Renato Basse         | Mônica AI                                                   |
+| 108      | Sand Santos          | Uber                                                        |
+| 108      | Felipe Sarai         | Lovable                                                     |
+| 108      | Beatriz Fazolo       | Hevy                                                        |
+| 108      | Carlos Bronze        | PostHog                                                     |
 | 107      | Aíquis               | Dwarkesh Podcast                                            |
 | 107      | Aíquis               | Colossus.com                                                |
 | 107      | Arthur               | Centene                                                     |
