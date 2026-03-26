@@ -1,5 +1,23 @@
 | Episódio | Ouvinte               | Produto                                                     |
 | -------- | --------------------- | ----------------------------------------------------------- |
+| 110      | Aíquis                | Wispr Flow                                                  |
+| 110      | Arthur                | Tênis Adidas x Lego                                         |
+| 110      | Felipe Marques        | Netflix (série Pessoa de Interesse)                         |
+| 110      | Valéria Romano        | Claude Code                                                 |
+| 110      | Glauco Moraes         | Replit                                                      |
+| 110      | Amanda Couto          | Replit                                                      |
+| 110      | Danilo Penteado       | Claude Code                                                 |
+| 110      | Nader                 | Claude                                                      |
+| 110      | Nader                 | NotebookLM                                                  |
+| 110      | Rafael Ferreira       | SmartGym                                                    |
+| 110      | Caio Comitre          | SkillDevPot.dev                                             |
+| 110      | Kelly Costa           | Google Colab                                                |
+| 110      | Kelly Costa           | Julius AI                                                   |
+| 110      | Julia Patrocínio      | GloboPlay                                                   |
+| 110      | Peixoto               | Lovable                                                     |
+| 110      | Fernando              | Claude Code                                                 |
+| 110      | Renato Santoro        | Lanterna do celular                                         |
+| 110      | Thiago Bodruk         | Sabonete                                                    |
 | 109      | Aíquis                | Copilot no Microsoft Edge                                   |
 | 109      | Arthur                | Replit                                                      |
 | 109      | Marcelo               | Comet (Perplexity)                                          |
