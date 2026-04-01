@@ -1,5 +1,17 @@
 | Episódio | Ouvinte               | Produto                                                     |
 | -------- | --------------------- | ----------------------------------------------------------- |
+| 111      | Arthur                | Ray-Ban Meta Display                                        |
+| 111      | Aíquis                | Mercado Livre e Amazon                                      |
+| 111      | Rafael Ferreira       | handy.computer                                              |
+| 111      | Yasmïn Sipahi         | Booking, GetYourGuide                                       |
+| 111      | Wellington Souza      | Manus AI                                                    |
+| 111      | Efrem                 | DeathbyClawd                                                |
+| 111      | Nader                 | Strawberry Browser                                          |
+| 111      | Pilon                 | GoPro                                                       |
+| 111      | Rodrigo               | Garmin Forerunner 265                                       |
+| 111      | Nina (Mozão)          | Maxi Cosi Spinel 360                                        |
+| 111      | Lika                  | Napper                                                      |
+| 111      | Matt                  | Calm App                                                    |
 | 110      | Aíquis                | Wispr Flow                                                  |
 | 110      | Arthur                | Tênis Adidas x Lego                                         |
 | 110      | Felipe Marques        | Netflix (série Pessoa de Interesse)                         |
