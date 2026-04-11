@@ -1,5 +1,33 @@
 | Episódio | Ouvinte               | Produto                                                     |
 | -------- | --------------------- | ----------------------------------------------------------- |
+| 112      | Aíquis                | Standing Desk (Slick Desk Selectia 2)                       |
+| 112      | Arthur                | Riverside                                                   |
+| 112      | Rafael Ferraz         | Modo IA do Google                                           |
+| 112      | Camila Meneghetti     | Spotify (novo álbum do BTS)                                 |
+| 112      | Vinícius Alves        | Claude Code                                                 |
+| 112      | Cauê                  | Claude Code                                                 |
+| 112      | Bob                   | Gemini                                                      |
+| 112      | Jaqueline             | Crush WoW                                                   |
+| 112      | Tiago Penha           | Eleven Labs                                                 |
+| 112      | Gabriel Hamú          | Skill de imposto de renda                                   |
+| 112      | Matt Lopes            | Huna (app do Strava)                                        |
+| 112      | Julia Patrocínio      | Splitwise                                                   |
+| 112      | Marília Rosa          | LinkedIn                                                    |
+| 112      | Ronald Falcão         | Ollama com Gemma 4                                          |
+| 112      | Patrícia Zago         | ChatGPT                                                     |
+| 112      | Núbia Coutinho        | ChatGPT                                                     |
+| 112      | Portinho              | ChatGPT                                                     |
+| 112      | Dudu Magalhães        | Supabase                                                    |
+| 112      | Dudu Magalhães        | GitHub                                                      |
+| 112      | Thays Bueno           | Cursor                                                      |
+| 112      | Diego                 | Cursor                                                      |
+| 112      | Eduardo Borges        | Gama                                                        |
+| 112      | Isaac Andrade         | Microsoft 365                                               |
+| 112      | Felipe Sarai          | Claude Code                                                 |
+| 112      | Felipe Sarai          | GitHub                                                      |
+| 112      | Alessandra Vasco      | Perplexity                                                  |
+| 112      | Alessandra Vasco      | Supabase                                                    |
+| 112      | Danileira             | App do BYD                                                  |
 | 111      | Arthur                | Ray-Ban Meta Display                                        |
 | 111      | Aíquis                | Mercado Livre e Amazon                                      |
 | 111      | Rafael Ferreira       | handy.computer                                              |
@@ -83,7 +111,7 @@
 | 108      | Paulo de Almeida      | Anti-Gravity                                                |
 | 108      | Julia Patrocini       | ChatGPT                                                     |
 | 108      | Lara Parodi           | ChatGPT                                                     |
-| 108      | Camila Meneguet       | Google Maps                                                 |
+| 108      | Camila Meneghetti     | Google Maps                                                 |
 | 108      | Vanessa Cardoso       | Google Maps                                                 |
 | 108      | Vanessa Cardoso       | TripAdvisor                                                 |
 | 108      | Tereza Faustino       | Wanderlog                                                   |
@@ -314,5 +342,5 @@
 | 101      | Novelino              | Amplitude                                                   |
 | 101      | Glauco                | Airbnb                                                      |
 | 101      | Lukão                 | X / Twitter                                                 |
-| 101      | Mat Lopes             | Loom                                                        |
+| 101      | Matt Lopes            | Loom                                                        |
 | 101      | Andrezão              | Vocabulary                                                  |
