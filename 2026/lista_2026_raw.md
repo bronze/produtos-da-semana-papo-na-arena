@@ -23,8 +23,8 @@
 | 112      | Diego                 | Cursor                                                      |
 | 112      | Eduardo Borges        | Gamma                                                       |
 | 112      | Isaac Andrade         | Microsoft 365                                               |
-| 112      | Felipe Sarai          | Claude Code                                                 |
-| 112      | Felipe Sarai          | GitHub                                                      |
+| 112      | Felipe Saraiva        | Claude Code                                                 |
+| 112      | Felipe Saraiva        | GitHub                                                      |
 | 112      | Alessandra Vasco      | Perplexity                                                  |
 | 112      | Alessandra Vasco      | Supabase                                                    |
 | 112      | Danilera              | App do BYD                                                  |
@@ -134,7 +134,7 @@
 | 108      | Karina Menta          | iFood                                                       |
 | 108      | Renato Basse          | Mônica AI                                                   |
 | 108      | Sand Santos           | Uber                                                        |
-| 108      | Felipe Sarai          | Lovable                                                     |
+| 108      | Felipe Saraiva        | Lovable                                                     |
 | 108      | Beatriz Fazolo        | Hevy                                                        |
 | 108      | Carlos Bronze         | PostHog                                                     |
 | 107      | Aíquis                | Dwarkesh Podcast                                            |
