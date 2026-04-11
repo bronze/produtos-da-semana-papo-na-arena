@@ -21,13 +21,13 @@
 | 112      | Dudu Magalhães        | GitHub                                                      |
 | 112      | Thays Bueno           | Cursor                                                      |
 | 112      | Diego                 | Cursor                                                      |
-| 112      | Eduardo Borges        | Gama                                                        |
+| 112      | Eduardo Borges        | Gamma                                                       |
 | 112      | Isaac Andrade         | Microsoft 365                                               |
 | 112      | Felipe Sarai          | Claude Code                                                 |
 | 112      | Felipe Sarai          | GitHub                                                      |
 | 112      | Alessandra Vasco      | Perplexity                                                  |
 | 112      | Alessandra Vasco      | Supabase                                                    |
-| 112      | Danileira             | App do BYD                                                  |
+| 112      | Danilera              | App do BYD                                                  |
 | 111      | Arthur                | Ray-Ban Meta Display                                        |
 | 111      | Aíquis                | Mercado Livre e Amazon                                      |
 | 111      | Rafael Ferreira       | handy.computer                                              |
