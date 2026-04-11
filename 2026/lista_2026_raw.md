@@ -10,7 +10,7 @@
 | 112      | Jaqueline             | Crush WoW                                                   |
 | 112      | Tiago Penha           | Eleven Labs                                                 |
 | 112      | Gabriel Hamú          | Skill de imposto de renda                                   |
-| 112      | Matt Lopes            | Huna (app do Strava)                                        |
+| 112      | Matt Lopes            | Runna (app do Strava)                                       |
 | 112      | Julia Patrocínio      | Splitwise                                                   |
 | 112      | Marília Rosa          | LinkedIn                                                    |
 | 112      | Ronald Falcão         | Ollama com Gemma 4                                          |
