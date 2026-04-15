@@ -1,5 +1,25 @@
 | Episódio | Ouvinte               | Produto                                                     |
 | -------- | --------------------- | ----------------------------------------------------------- |
+| 113      | Arthur                | Claude Cowork                                               |
+| 113      | Aíquis                | Claude Projects                                             |
+| 113      | Helber Alves          | Replit                                                      |
+| 113      | Amanda Couto          | Claude Cowork                                               |
+| 113      | Rafael Ferreira       | Blip (transferir arquivos iPhone ↔ Windows, tipo AirDrop)   |
+| 113      | Marcos Lavin          | Claude Cowork                                               |
+| 113      | Marcos Lavin          | ChatGPT                                                     |
+| 113      | Isaac Andrade         | Microsoft 365                                               |
+| 113      | Beatriz Morales       | iFood (lista de mercado)                                    |
+| 113      | Renato Bassi          | Waze                                                        |
+| 113      | Aline                 | Claude                                                      |
+| 113      | Aline                 | Obsidian                                                    |
+| 113      | Guto Guimarães        | Kiro (AWS)                                                  |
+| 113      | Felipe Saraiva        | Claude Code                                                 |
+| 113      | Peixoto               | Cursor                                                      |
+| 113      | Danilera              | Replit                                                      |
+| 113      | Nina (Mozão)          | Replit (fazendo apps de barista)                            |
+| 113      | Julia Mendes          | Maps                                                        |
+| 113      | Julia Mendes          | Wikiloc (Google Maps de trilhas)                            |
+| 113      | Eduardo Montoya       | Codex                                                       |
 | 112      | Aíquis                | Standing Desk (Slick Desk Selectia 2)                       |
 | 112      | Arthur                | Riverside                                                   |
 | 112      | Rafael Ferraz         | Modo IA do Google                                           |
