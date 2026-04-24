@@ -1,5 +1,25 @@
 | Episódio | Ouvinte               | Produto                                                     |
 | -------- | --------------------- | ----------------------------------------------------------- |
+| 114      | Aíquis                | Claude Artifacts (roteiro de viagem com mapa interativo)    |
+| 114      | Arthur                | Replit (Canvas)                                             |
+| 114      | Vitor Ferrara         | Claude Code                                                 |
+| 114      | Ronald Falcão         | Google Stitch                                               |
+| 114      | Amanda Couto          | Claude                                                      |
+| 114      | Amanda Couto          | App do The News (controle de hábitos)                       |
+| 114      | Isaac Santos          | Copilot (embedado no Excel)                                 |
+| 114      | Huxley                | Claude Code                                                 |
+| 114      | André Santos          | Claude Code                                                 |
+| 114      | Alexandre Pereira     | Claude Code                                                 |
+| 114      | Tadeu                 | Claude Code                                                 |
+| 114      | Cauê                  | Claude Code                                                 |
+| 114      | Jonas                 | Claude Design                                               |
+| 114      | Glauco Moraes         | iPhone 17 Pro Max                                           |
+| 114      | Beatriz Morales       | Bala Fini                                                   |
+| 114      | Daniel Gonzalez       | Starlink                                                    |
+| 114      | Matt Lopes            | Garmin Connect                                              |
+| 114      | Paulo Santos          | Replit                                                      |
+| 114      | Fernando              | Replit                                                      |
+| 114      | Pamela                | Cursor                                                      |
 | 113      | Arthur                | Claude Cowork                                               |
 | 113      | Aíquis                | Claude Projects                                             |
 | 113      | Helber Alves          | Replit                                                      |
