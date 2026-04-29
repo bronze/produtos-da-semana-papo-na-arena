@@ -1,5 +1,25 @@
 | Episódio | Ouvinte               | Produto                                                     |
 | -------- | --------------------- | ----------------------------------------------------------- |
+| 115      | Arthur                | Cursor                                                      |
+| 115      | Aíquis                | Substack (transcrição com busca)                            |
+| 115      | Aíquis                | Notebook LM (mind map de podcast)                           |
+| 115      | Paulo Rodrigues       | Replit                                                      |
+| 115      | Joãozin               | Replit                                                      |
+| 115      | Erika Oliveira        | Replit                                                      |
+| 115      | Camila Meneghetti     | Replit                                                      |
+| 115      | Rodrigo               | Cursor                                                      |
+| 115      | Lucas Mattos          | Cursor                                                      |
+| 115      | Beatriz Morales       | Cursor                                                      |
+| 115      | Carol Pilon           | Claude Code                                                 |
+| 115      | Celso                 | Claude Code                                                 |
+| 115      | Arthur Azevedo        | Claude Code                                                 |
+| 115      | Neider Narde          | Claude Code                                                 |
+| 115      | Vanessa               | Waze                                                        |
+| 115      | Fabio                 | Cartório Civil (game over, vai casar)                       |
+| 115      | Cauê                  | Nav-Dasa                                                    |
+| 115      | Fernanda Faria        | Hermes (agent)                                              |
+| 115      | Matt Lopes            | Airalo (eSIM)                                               |
+| 115      | Ju Carvalho           | Disney Plus (Stitch pro filho)                              |
 | 114      | Aíquis                | Claude Artifacts (roteiro de viagem com mapa interativo)    |
 | 114      | Arthur                | Replit (Canvas)                                             |
 | 114      | Vitor Ferrara         | Claude Code                                                 |
